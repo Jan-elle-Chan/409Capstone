@@ -1,0 +1,16 @@
+1708929602
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"home";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:7:"01.home";s:6:"header";a:2:{s:5:"title";s:4:"Home";s:12:"body_classes";s:23:"title-center title-h1h2";}s:11:"frontmatter";s:49:"title: Home
+body_classes: title-center title-h1h2";s:8:"markdown";s:1162:"## What is Design thinking?
+Design thinking is an approach to problem-solving and innovation. It is a user-centric approach which focuses on the solution. 
+
+Design thinking has five (5) stages: Empathize, Define, Ideate, Prototype, Test
+
+* Empathize - In this stage you try to understand the user and their needs by gathering information.
+* Define – Based on discoveries made during the empathize stage you will define the user problem.
+* Ideate – With the problem statement in mind, come up with as many ideas as possible, later in this stage, you will evaluate the ideas.
+* Prototype – create a model of the intended solution, it can be a paper version or something more complex, but you must be mindful it can be discarded
+* Test – In this stage you will have users interact with your prototype and collect feedback for improvements and further iteration.
+
+Although the stages are generally followed in order the process may be non-linear, meaning any stage can be done at any time. The process is also iterative, the entire process may be completed then repeated or there may be iteration within the stages as well, allowing for deeper exploration.
+
+";s:4:"slug";s:4:"home";s:4:"name";s:10:"default.md";s:8:"ordering";b:1;}s:7:"storage";a:6:{s:3:"key";s:4:"home";s:11:"storage_key";s:7:"01.home";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1708928942;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1708927251;}}s:8:"checksum";s:32:"0c169a42e74897507ba62e8bd0c46162";}}

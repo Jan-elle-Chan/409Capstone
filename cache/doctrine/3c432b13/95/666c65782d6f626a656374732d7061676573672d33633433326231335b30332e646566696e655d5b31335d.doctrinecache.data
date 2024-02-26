@@ -1,0 +1,17 @@
+1708915544
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"define";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:9:"03.define";s:6:"header";a:1:{s:5:"title";s:6:"Define";}s:11:"frontmatter";s:13:"title: Define";s:8:"markdown";s:704:"## Define
+###### Stage 3 
+During the define stage you will use the information gathered from the Empathize stage to help define the user problem. 
+The problem statement you develop will be used to drive the Ideation stage.
+
+
+By now you will have a clear understanding of who the user is, what they want to accomplish, and what their pain points are.
+
+!!! A pain point is any obstruction, issue or challenge faced by the user in their attempt to accomplish their goal. Pain points present you with opportunities, in that they can be addressed in your solution, increasing its value to the user.
+
+### Techniques or Tools 
+* User personas
+* Users Stories
+* How Might We Statements
+* Point of View Statement
+";s:4:"slug";s:6:"define";s:4:"name";s:10:"default.md";s:8:"ordering";b:1;}s:7:"storage";a:6:{s:3:"key";s:6:"define";s:11:"storage_key";s:9:"03.define";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1708914943;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1708914943;}}s:8:"checksum";s:32:"c9cc618f9eded204d3908bcf0971c29d";}}

@@ -1,0 +1,11 @@
+state: enabled
+email: j_michelene@yahoo.com
+fullname: 'Janelle Chandass'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$vmh4hHfafchKuvDmrpUace074oFRK1KdH2yV0wt1mVtdKJgou/yWy

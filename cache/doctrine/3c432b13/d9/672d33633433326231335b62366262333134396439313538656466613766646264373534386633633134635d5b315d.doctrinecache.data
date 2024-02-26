@@ -1,0 +1,17 @@
+1709561581
+a:2:{s:7:"content";s:1200:"<h2>Reduce</h2>
+<p>ReduCe is intended to help users make a positive impact on the environment by providing them with information that reduces their carbon footprint. It does this by calculating the user's daily carbon-dioxide output based on their daily tasks.
+Apart from providing the user with alternatives to their daily routing that will output less carbon-dioxide, ReduCe also reports users daily, weekly and monthly output so they can monitor their output over time.</p>
+<h3>Define</h3>
+<p>User story for a target user.
+<img alt="User persona for a Reduce app user" src="/dtSimplified/user/pages/07.projects/userPersonaReduce.png" /></p>
+<h3>Ideate</h3>
+<div class="notices red">
+<p>Remember all ideas, even those that seem impractical are good ideas.</p>
+</div>
+<p>A mindmap showing ways the user could reduce their carbon dioxide output. </p>
+<p><img alt="Mindmap showing ways to reduce CO2" src="/dtSimplified/user/pages/07.projects/reduceMindmap.png" /></p>
+<h3>Prototype</h3>
+<p><img alt="High Fidelity Wireframes" src="/dtSimplified/user/pages/07.projects/reduceHighFiWire.png" /></p>
+<h3>Test</h3>
+<p><img alt="Mockups" src="/dtSimplified/user/pages/07.projects/reduceMockup1.png" /></p>";s:12:"content_meta";N;}
