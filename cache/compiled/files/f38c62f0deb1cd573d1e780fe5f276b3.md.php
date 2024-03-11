@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/03.define/default.md',
-    'modified' => 1708956538,
+    'modified' => 1710144357,
     'size' => 776,
     'data' => [
         'storage_key' => '03.define',

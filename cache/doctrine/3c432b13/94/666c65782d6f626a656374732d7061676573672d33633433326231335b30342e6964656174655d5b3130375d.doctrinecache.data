@@ -1,0 +1,21 @@
+1710144664
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"ideate";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:9:"04.ideate";s:6:"header";a:1:{s:5:"title";s:6:"Ideate";}s:11:"frontmatter";s:0:"";s:8:"markdown";s:869:"## Stage 3 - Ideate
+Key Words or Phrases: Novel Innovative Quantity
+Many novel ideas lead to innovation
+ 
+Keeping the problem statement developed from the previous stage at the front of your mind, come up with as many ideas as possible to solve it. It doesn’t matter how far-fetched or simple the ideas may be. Don’t overthink or think about which ones are good or bad, easy to implement, fun or unfeasible, just generate ideas.
+ 
+Once you have generated ideas, you will narrow down your list and eventually move forward to the prototype stage with one or two ideas.
+* Group very similar ideas
+* Combine ideas if necessary
+* Evaluate them based on available resources (time, technology skill, design skill, budget)
+ 
+Ideation Techniques
+* Brainstorming
+* Mind maps
+* Sketches
+* Reverse brainstorming or negative brainstorming
+* Storyboards
+* Brainwriting
+* SCAMPER
+";s:4:"slug";s:6:"ideate";s:4:"name";s:10:"default.md";s:8:"ordering";b:1;}s:7:"storage";a:6:{s:3:"key";s:6:"ideate";s:11:"storage_key";s:9:"04.ideate";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1710140842;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1710140842;}}s:8:"checksum";s:32:"f5b01f486942be361fb28ea15ae83138";}}
