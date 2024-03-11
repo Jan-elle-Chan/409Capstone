@@ -4,10 +4,16 @@ h3,
 h4,
 h5,
 h6 {
-    color: green;
+    color: #445157;
 }
 
 
-#footer {
-    background-color: red;
+#footer, #header {
+    background-color: #445157;
 }
+
+.desktop-menu{
+    background-color: #ffffff;
+    width: 100%;
+}
+
