@@ -43,3 +43,7 @@ body{
 .desktop-menu{
     margin-right: 35px;
 }
+
+.mobile-log0{
+    display: none;
+}

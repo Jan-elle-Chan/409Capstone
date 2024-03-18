@@ -117,12 +117,12 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
     ";
         // line 96
         $this->displayBlock('mobile', $context, $blocks);
-        // line 108
+        // line 110
         echo "
 ";
-        // line 109
+        // line 111
         $this->displayBlock('bottom', $context, $blocks);
-        // line 112
+        // line 114
         echo "
 </body>
 </html>
@@ -356,27 +356,25 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
         // line 97
         echo "    <div class=\"mobile-container\">
         <div class=\"overlay\" id=\"overlay\">
-            <div class=\"mobile-logo\">
-                ";
+            ";
         // line 100
-        $this->loadTemplate("partials/logo.html.twig", "partials/base.html.twig", 100)->display(twig_array_merge($context, ["mobile" => true]));
-        // line 101
-        echo "            </div>
-            <nav class=\"overlay-menu\">
-                ";
-        // line 103
-        $this->loadTemplate("partials/navigation.html.twig", "partials/base.html.twig", 103)->display(twig_array_merge($context, ["tree" => true]));
+        echo "            ";
         // line 104
+        echo "            <nav class=\"overlay-menu\">
+                ";
+        // line 105
+        $this->loadTemplate("partials/navigation.html.twig", "partials/base.html.twig", 105)->display(twig_array_merge($context, ["tree" => true]));
+        // line 106
         echo "            </nav>
         </div>
     </div>
     ";
     }
 
-    // line 109
+    // line 111
     public function block_bottom($context, array $blocks = [])
     {
-        // line 110
+        // line 112
         echo "    ";
         echo $this->getAttribute(($context["assets"] ?? null), "js", [0 => "bottom"], "method");
         echo "
@@ -395,7 +393,7 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
 
     public function getDebugInfo()
     {
-        return array (  380 => 110,  377 => 109,  370 => 104,  368 => 103,  364 => 101,  362 => 100,  357 => 97,  354 => 96,  350 => 94,  347 => 93,  344 => 92,  340 => 83,  329 => 82,  326 => 81,  317 => 84,  315 => 81,  311 => 80,  308 => 79,  305 => 78,  300 => 75,  296 => 53,  293 => 52,  290 => 51,  272 => 59,  266 => 57,  264 => 56,  260 => 54,  258 => 51,  253 => 48,  251 => 47,  245 => 44,  242 => 43,  239 => 42,  233 => 40,  226 => 37,  221 => 36,  218 => 35,  208 => 32,  205 => 31,  202 => 30,  199 => 29,  194 => 26,  191 => 25,  188 => 24,  183 => 23,  178 => 22,  175 => 21,  172 => 20,  165 => 17,  161 => 16,  158 => 15,  156 => 14,  145 => 10,  142 => 9,  139 => 8,  126 => 112,  124 => 109,  121 => 108,  119 => 96,  116 => 95,  114 => 92,  108 => 88,  106 => 78,  102 => 76,  100 => 75,  97 => 74,  95 => 42,  90 => 40,  87 => 39,  85 => 35,  82 => 34,  80 => 29,  77 => 28,  75 => 20,  72 => 19,  70 => 8,  65 => 6,  62 => 5,  60 => 3,  58 => 2,  56 => 1,  25 => 4,);
+        return array (  378 => 112,  375 => 111,  368 => 106,  366 => 105,  363 => 104,  361 => 100,  357 => 97,  354 => 96,  350 => 94,  347 => 93,  344 => 92,  340 => 83,  329 => 82,  326 => 81,  317 => 84,  315 => 81,  311 => 80,  308 => 79,  305 => 78,  300 => 75,  296 => 53,  293 => 52,  290 => 51,  272 => 59,  266 => 57,  264 => 56,  260 => 54,  258 => 51,  253 => 48,  251 => 47,  245 => 44,  242 => 43,  239 => 42,  233 => 40,  226 => 37,  221 => 36,  218 => 35,  208 => 32,  205 => 31,  202 => 30,  199 => 29,  194 => 26,  191 => 25,  188 => 24,  183 => 23,  178 => 22,  175 => 21,  172 => 20,  165 => 17,  161 => 16,  158 => 15,  156 => 14,  145 => 10,  142 => 9,  139 => 8,  126 => 114,  124 => 111,  121 => 110,  119 => 96,  116 => 95,  114 => 92,  108 => 88,  106 => 78,  102 => 76,  100 => 75,  97 => 74,  95 => 42,  90 => 40,  87 => 39,  85 => 35,  82 => 34,  80 => 29,  77 => 28,  75 => 20,  72 => 19,  70 => 8,  65 => 6,  62 => 5,  60 => 3,  58 => 2,  56 => 1,  25 => 4,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -506,9 +504,11 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
     {% block mobile %}
     <div class=\"mobile-container\">
         <div class=\"overlay\" id=\"overlay\">
-            <div class=\"mobile-logo\">
+            {#The mobile logo was removed#}
+            {#<div class=\"mobile-logo\">
                 {% include 'partials/logo.html.twig' with {mobile: true} %}
             </div>
+            #}
             <nav class=\"overlay-menu\">
                 {% include 'partials/navigation.html.twig' with {tree: true} %}
             </nav>
