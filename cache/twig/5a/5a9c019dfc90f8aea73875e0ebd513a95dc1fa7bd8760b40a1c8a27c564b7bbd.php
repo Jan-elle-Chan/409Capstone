@@ -520,7 +520,7 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
 
 </body>
 </html>
-", "partials/base.html.twig", "C:\\xampp\\htdocs\\grav-admin\\user\\themes\\quark\\templates\\partials\\base.html.twig");
+", "partials/base.html.twig", "C:\\xampp\\htdocs\\dtSimplified\\user\\themes\\quark\\templates\\partials\\base.html.twig");
     }
     private $deferred;
 }

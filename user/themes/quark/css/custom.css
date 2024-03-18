@@ -14,4 +14,13 @@ h6 {
 
 
 
+.navbar{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
 
+.desktop-menu{
+    background-color: #445157;
+}
