@@ -17,13 +17,28 @@ body{
     font-size: 1.0rem;
 }
 
-.navbar{
-    display:flex;
-    flex-direction: column;
+
+
+.navbar {
+    display: flex;
     justify-content: center;
-    
+}
+
+.desktop-menu ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.desktop-menu ul li {
+    margin: 0 10px;
+}
+
+.desktop-menu ul li a {
+    text-decoration: none;
 }
 
 .desktop-menu{
-    background-color: #445157;
+    margin-right: 35px;
 }
