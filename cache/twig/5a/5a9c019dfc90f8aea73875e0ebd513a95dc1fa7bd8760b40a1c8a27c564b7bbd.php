@@ -93,36 +93,36 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
     ";
         // line 42
         $this->displayBlock('header', $context, $blocks);
-        // line 73
+        // line 74
         echo "
     ";
-        // line 74
-        $this->displayBlock('hero', $context, $blocks);
         // line 75
+        $this->displayBlock('hero', $context, $blocks);
+        // line 76
         echo "
         <section id=\"start\">
         ";
-        // line 77
+        // line 78
         $this->displayBlock('body', $context, $blocks);
-        // line 87
+        // line 88
         echo "        </section>
 
     </div>
 
     ";
-        // line 91
+        // line 92
         $this->displayBlock('footer', $context, $blocks);
-        // line 94
+        // line 95
         echo "
     ";
-        // line 95
+        // line 96
         $this->displayBlock('mobile', $context, $blocks);
-        // line 107
+        // line 108
         echo "
 ";
-        // line 108
+        // line 109
         $this->displayBlock('bottom', $context, $blocks);
-        // line 111
+        // line 112
         echo "
 </body>
 </html>
@@ -250,28 +250,29 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
         // line 47
         $this->loadTemplate("partials/logo.html.twig", "partials/base.html.twig", 47)->display($context);
         // line 48
-        echo "                    </section>
-                    <section class=\"navbar-section desktop-menu\">
+        echo "                        <section class=\"navbar-section desktop-menu\">
 
                         <nav class=\"dropmenu animated\">
                         ";
-        // line 52
+        // line 51
         $this->displayBlock('header_navigation', $context, $blocks);
-        // line 55
+        // line 54
         echo "                        </nav>
 
                         ";
-        // line 57
+        // line 56
         if (($this->getAttribute($this->getAttribute($this->getAttribute(($context["config"] ?? null), "plugins", []), "login", []), "enabled", []) && $this->getAttribute($this->getAttribute(($context["grav"] ?? null), "user", []), "username", []))) {
-            // line 58
+            // line 57
             echo "                            <span class=\"login-status-wrapper\"><i class=\"fa fa-user\"></i> ";
-            $this->loadTemplate("partials/login-status.html.twig", "partials/base.html.twig", 58)->display($context);
+            $this->loadTemplate("partials/login-status.html.twig", "partials/base.html.twig", 57)->display($context);
             echo "</span>
                         ";
         }
-        // line 60
+        // line 59
         echo "
                     </section>
+                    </section>
+                    
                 </nav>
             </section>
         </section>
@@ -285,34 +286,34 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
     ";
     }
 
-    // line 52
+    // line 51
     public function block_header_navigation($context, array $blocks = [])
     {
-        // line 53
+        // line 52
         echo "                            ";
-        $this->loadTemplate("partials/navigation.html.twig", "partials/base.html.twig", 53)->display($context);
-        // line 54
+        $this->loadTemplate("partials/navigation.html.twig", "partials/base.html.twig", 52)->display($context);
+        // line 53
         echo "                        ";
     }
 
-    // line 74
+    // line 75
     public function block_hero($context, array $blocks = [])
     {
     }
 
-    // line 77
+    // line 78
     public function block_body($context, array $blocks = [])
     {
-        // line 78
+        // line 79
         echo "            <section id=\"body-wrapper\" class=\"section\">
                 <section class=\"container ";
-        // line 79
+        // line 80
         echo twig_escape_filter($this->env, ($context["grid_size"] ?? null), "html", null, true);
         echo "\">
                     ";
-        // line 80
+        // line 81
         $this->displayBlock('messages', $context, $blocks);
-        // line 83
+        // line 84
         echo "                    ";
         $this->displayBlock("content_surround", $context, $blocks);
         echo "
@@ -321,61 +322,61 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
         ";
     }
 
-    // line 80
+    // line 81
     public function block_messages($context, array $blocks = [])
     {
-        // line 81
+        // line 82
         echo "                        ";
         $__internal_f607aeef2c31a95a7bf963452dff024ffaeb6aafbe4603f9ca3bec57be8633f4 = null;
         try {
-            $__internal_f607aeef2c31a95a7bf963452dff024ffaeb6aafbe4603f9ca3bec57be8633f4 =             $this->loadTemplate("partials/messages.html.twig", "partials/base.html.twig", 81);
+            $__internal_f607aeef2c31a95a7bf963452dff024ffaeb6aafbe4603f9ca3bec57be8633f4 =             $this->loadTemplate("partials/messages.html.twig", "partials/base.html.twig", 82);
         } catch (LoaderError $e) {
             // ignore missing template
         }
         if ($__internal_f607aeef2c31a95a7bf963452dff024ffaeb6aafbe4603f9ca3bec57be8633f4) {
             $__internal_f607aeef2c31a95a7bf963452dff024ffaeb6aafbe4603f9ca3bec57be8633f4->display($context);
         }
-        // line 82
+        // line 83
         echo "                    ";
     }
 
-    // line 91
+    // line 92
     public function block_footer($context, array $blocks = [])
     {
-        // line 92
-        echo "        ";
-        $this->loadTemplate("partials/footer.html.twig", "partials/base.html.twig", 92)->display($context);
         // line 93
+        echo "        ";
+        $this->loadTemplate("partials/footer.html.twig", "partials/base.html.twig", 93)->display($context);
+        // line 94
         echo "    ";
     }
 
-    // line 95
+    // line 96
     public function block_mobile($context, array $blocks = [])
     {
-        // line 96
+        // line 97
         echo "    <div class=\"mobile-container\">
         <div class=\"overlay\" id=\"overlay\">
             <div class=\"mobile-logo\">
                 ";
-        // line 99
-        $this->loadTemplate("partials/logo.html.twig", "partials/base.html.twig", 99)->display(twig_array_merge($context, ["mobile" => true]));
         // line 100
+        $this->loadTemplate("partials/logo.html.twig", "partials/base.html.twig", 100)->display(twig_array_merge($context, ["mobile" => true]));
+        // line 101
         echo "            </div>
             <nav class=\"overlay-menu\">
                 ";
-        // line 102
-        $this->loadTemplate("partials/navigation.html.twig", "partials/base.html.twig", 102)->display(twig_array_merge($context, ["tree" => true]));
         // line 103
+        $this->loadTemplate("partials/navigation.html.twig", "partials/base.html.twig", 103)->display(twig_array_merge($context, ["tree" => true]));
+        // line 104
         echo "            </nav>
         </div>
     </div>
     ";
     }
 
-    // line 108
+    // line 109
     public function block_bottom($context, array $blocks = [])
     {
-        // line 109
+        // line 110
         echo "    ";
         echo $this->getAttribute(($context["assets"] ?? null), "js", [0 => "bottom"], "method");
         echo "
@@ -394,7 +395,7 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
 
     public function getDebugInfo()
     {
-        return array (  379 => 109,  376 => 108,  369 => 103,  367 => 102,  363 => 100,  361 => 99,  356 => 96,  353 => 95,  349 => 93,  346 => 92,  343 => 91,  339 => 82,  328 => 81,  325 => 80,  316 => 83,  314 => 80,  310 => 79,  307 => 78,  304 => 77,  299 => 74,  295 => 54,  292 => 53,  289 => 52,  273 => 60,  267 => 58,  265 => 57,  261 => 55,  259 => 52,  253 => 48,  251 => 47,  245 => 44,  242 => 43,  239 => 42,  233 => 40,  226 => 37,  221 => 36,  218 => 35,  208 => 32,  205 => 31,  202 => 30,  199 => 29,  194 => 26,  191 => 25,  188 => 24,  183 => 23,  178 => 22,  175 => 21,  172 => 20,  165 => 17,  161 => 16,  158 => 15,  156 => 14,  145 => 10,  142 => 9,  139 => 8,  126 => 111,  124 => 108,  121 => 107,  119 => 95,  116 => 94,  114 => 91,  108 => 87,  106 => 77,  102 => 75,  100 => 74,  97 => 73,  95 => 42,  90 => 40,  87 => 39,  85 => 35,  82 => 34,  80 => 29,  77 => 28,  75 => 20,  72 => 19,  70 => 8,  65 => 6,  62 => 5,  60 => 3,  58 => 2,  56 => 1,  25 => 4,);
+        return array (  380 => 110,  377 => 109,  370 => 104,  368 => 103,  364 => 101,  362 => 100,  357 => 97,  354 => 96,  350 => 94,  347 => 93,  344 => 92,  340 => 83,  329 => 82,  326 => 81,  317 => 84,  315 => 81,  311 => 80,  308 => 79,  305 => 78,  300 => 75,  296 => 53,  293 => 52,  290 => 51,  272 => 59,  266 => 57,  264 => 56,  260 => 54,  258 => 51,  253 => 48,  251 => 47,  245 => 44,  242 => 43,  239 => 42,  233 => 40,  226 => 37,  221 => 36,  218 => 35,  208 => 32,  205 => 31,  202 => 30,  199 => 29,  194 => 26,  191 => 25,  188 => 24,  183 => 23,  178 => 22,  175 => 21,  172 => 20,  165 => 17,  161 => 16,  158 => 15,  156 => 14,  145 => 10,  142 => 9,  139 => 8,  126 => 112,  124 => 109,  121 => 108,  119 => 96,  116 => 95,  114 => 92,  108 => 88,  106 => 78,  102 => 76,  100 => 75,  97 => 74,  95 => 42,  90 => 40,  87 => 39,  85 => 35,  82 => 34,  80 => 29,  77 => 28,  75 => 20,  72 => 19,  70 => 8,  65 => 6,  62 => 5,  60 => 3,  58 => 2,  56 => 1,  25 => 4,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -454,8 +455,7 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
                 <nav class=\"navbar\">
                     <section class=\"navbar-section logo\">
                         {% include 'partials/logo.html.twig' %}
-                    </section>
-                    <section class=\"navbar-section desktop-menu\">
+                        <section class=\"navbar-section desktop-menu\">
 
                         <nav class=\"dropmenu animated\">
                         {% block header_navigation %}
@@ -468,6 +468,8 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
                         {% endif %}
 
                     </section>
+                    </section>
+                    
                 </nav>
             </section>
         </section>
