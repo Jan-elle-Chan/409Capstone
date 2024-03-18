@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/05.prototype/default.md',
-    'modified' => 1710779352,
-    'size' => 1663,
+    'modified' => 1710782384,
+    'size' => 1668,
     'data' => [
         'storage_key' => '05.prototype',
         'header' => [
@@ -11,7 +11,7 @@ return [
         ],
         'root' => false,
         'frontmatter' => '',
-        'markdown' => 'Stage 4 Prototype
+        'markdown' => '## Stage 4 - Prototype
 
 Using one or two ideas from the Ideate stage, you will build a model of that idea or solution. You are not building the actual product or solution only a model so it must be something that can be made easily in a short time and that you are willing to discard.
 

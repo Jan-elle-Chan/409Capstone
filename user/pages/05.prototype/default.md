@@ -2,7 +2,7 @@
 title: Prototype
 ---
 
-Stage 4 Prototype
+## Stage 4 - Prototype
 
 Using one or two ideas from the Ideate stage, you will build a model of that idea or solution. You are not building the actual product or solution only a model so it must be something that can be made easily in a short time and that you are willing to discard.
 

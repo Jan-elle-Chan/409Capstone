@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/04.ideate/default.md',
-    'modified' => 1710140842,
-    'size' => 892,
+    'modified' => 1710783443,
+    'size' => 906,
     'data' => [
         'storage_key' => '04.ideate',
         'header' => [
@@ -22,7 +22,7 @@ Once you have generated ideas, you will narrow down your list and eventually mov
 * Combine ideas if necessary
 * Evaluate them based on available resources (time, technology skill, design skill, budget)
  
-Ideation Techniques
+### Ideation Techniques and Tools
 * Brainstorming
 * Mind maps
 * Sketches

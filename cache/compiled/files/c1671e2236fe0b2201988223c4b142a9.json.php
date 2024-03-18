@@ -2,11 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/data/flex/indexes/pages.json',
-    'modified' => 1710779352,
+    'modified' => 1710783850,
     'size' => 1951,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1710779352,
+        'timestamp' => 1710783850,
         'count' => 9,
         'index' => [
             '' => [
@@ -41,28 +41,28 @@ return [
                 'key' => 'empathize',
                 'storage_key' => '02.empathize',
                 'template' => 'default',
-                'storage_timestamp' => 1710143775,
+                'storage_timestamp' => 1710783850,
                 'markdown' => [
                     '' => [
-                        'default' => 1710143775
+                        'default' => 1710783850
                     ]
                 ],
-                'checksum' => 'deef2462056d2923a1773e3d06811c92'
+                'checksum' => 'e53f4f6f83218208ac195da7d0327dae'
             ],
             '03.define' => [
                 'key' => 'define',
                 'storage_key' => '03.define',
                 'template' => 'default',
-                'storage_timestamp' => 1710144357,
+                'storage_timestamp' => 1710783487,
                 'markdown' => [
                     '' => [
-                        'default' => 1710144357
+                        'default' => 1710783487
                     ]
                 ],
                 'children' => [
                     'user-personas' => 1708977137
                 ],
-                'checksum' => '200d14482b0495d8308acf938fefc754'
+                'checksum' => 'e403fa3fb46a2b6831110f9ffd20d581'
             ],
             '03.define/user-personas' => [
                 'key' => 'define/user-personas',
@@ -80,25 +80,25 @@ return [
                 'key' => 'ideate',
                 'storage_key' => '04.ideate',
                 'template' => 'default',
-                'storage_timestamp' => 1710140842,
+                'storage_timestamp' => 1710783443,
                 'markdown' => [
                     '' => [
-                        'default' => 1710140842
+                        'default' => 1710783443
                     ]
                 ],
-                'checksum' => 'f5b01f486942be361fb28ea15ae83138'
+                'checksum' => 'ebfdb26971d57d2e6bdbf6d971549923'
             ],
             '05.prototype' => [
                 'key' => 'prototype',
                 'storage_key' => '05.prototype',
                 'template' => 'default',
-                'storage_timestamp' => 1710779352,
+                'storage_timestamp' => 1710782384,
                 'markdown' => [
                     '' => [
-                        'default' => 1710779352
+                        'default' => 1710782384
                     ]
                 ],
-                'checksum' => '726714e1d3df9d2fbaf3014445b60ddb'
+                'checksum' => '568a377a6742d3f35b3ad18bcae9b8db'
             ],
             '06.test' => [
                 'key' => 'test',

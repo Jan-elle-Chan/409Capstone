@@ -13,7 +13,7 @@ Once you have generated ideas, you will narrow down your list and eventually mov
 * Combine ideas if necessary
 * Evaluate them based on available resources (time, technology skill, design skill, budget)
  
-Ideation Techniques
+### Ideation Techniques and Tools
 * Brainstorming
 * Mind maps
 * Sketches
