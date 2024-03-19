@@ -1,4 +1,4 @@
-1710784451
+1710785424
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:20:"define/user-personas";s:8:"elements";a:9:{s:4:"root";b:0;s:11:"storage_key";s:23:"03.define/user-personas";s:6:"header";a:1:{s:5:"title";s:13:"User Personas";}s:5:"route";s:7:"/define";s:4:"name";s:10:"default.md";s:11:"frontmatter";s:23:"title: 'User Personas'
 ";s:4:"slug";s:13:"user-personas";s:8:"ordering";b:0;s:8:"markdown";s:902:"## User Personas
 
