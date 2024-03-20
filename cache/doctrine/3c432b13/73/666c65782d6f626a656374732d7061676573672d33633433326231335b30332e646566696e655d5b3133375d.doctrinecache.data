@@ -1,4 +1,4 @@
-1710785424
+1710911369
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"define";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:9:"03.define";s:6:"header";a:1:{s:5:"title";s:6:"Define";}s:11:"frontmatter";s:13:"title: Define";s:8:"markdown";s:772:"## Stage 2 - Define
 
 During the define stage you will use the information gathered from the Empathize stage to help define the user problem. 
