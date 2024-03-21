@@ -25,11 +25,11 @@ Persona for the Comox Valley Search and Rescue. Users visit the website to:
 * Learn about outdoor and adventure safety
 * Learn about becoming a member of CVSR
 
-![User Persona Comox Valley Search and Rescue](userPersonaCVSR.png){width=50%}
+![User Persona Comox Valley Search and Rescue](userPersonaCVSR.png)*Part of user persona Comox Valley Search and Rescue*
 
-
+<p></p>
 Persona for Reduce. Users are:
 * Younger, technologically oriented people who are environmentally conscious
 * Want to find ways to track and reduce their carbon dioxide output.
 
-![User Persona Reduce](userPersonaReduce.png)
+![User Persona Reduce](userPersonaReduce.png)*User persona Reduce app*

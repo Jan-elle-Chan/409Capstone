@@ -2,11 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/data/flex/indexes/pages.json',
-    'modified' => 1711037557,
+    'modified' => 1711040001,
     'size' => 1951,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1711037557,
+        'timestamp' => 1711040001,
         'count' => 9,
         'index' => [
             '' => [
@@ -29,13 +29,13 @@ return [
                 'key' => 'home',
                 'storage_key' => '01.home',
                 'template' => 'default',
-                'storage_timestamp' => 1711034986,
+                'storage_timestamp' => 1711037870,
                 'markdown' => [
                     '' => [
                         'default' => 1711034986
                     ]
                 ],
-                'checksum' => 'c1c83c5a562d9b982f983d93bb5f539c'
+                'checksum' => 'f3e0a565ea054c3964666f9eff12edb1'
             ],
             '02.empathize' => [
                 'key' => 'empathize',
@@ -68,25 +68,25 @@ return [
                 'key' => 'define/user-personas',
                 'storage_key' => '03.define/user-personas',
                 'template' => 'default',
-                'storage_timestamp' => 1708977137,
+                'storage_timestamp' => 1711038965,
                 'markdown' => [
                     '' => [
-                        'default' => 1708918742
+                        'default' => 1711038965
                     ]
                 ],
-                'checksum' => '34285ea6d5c0d16e31043f2efa57228e'
+                'checksum' => '60d261a47c2dc0690ea898c286c62145'
             ],
             '04.ideate' => [
                 'key' => 'ideate',
                 'storage_key' => '04.ideate',
                 'template' => 'default',
-                'storage_timestamp' => 1711037557,
+                'storage_timestamp' => 1711040001,
                 'markdown' => [
                     '' => [
-                        'default' => 1711037557
+                        'default' => 1711040001
                     ]
                 ],
-                'checksum' => 'b695b5cdafd23f4798a3f01c2a3405f2'
+                'checksum' => '45243677b6321d68902eca803cf71dce'
             ],
             '05.prototype' => [
                 'key' => 'prototype',

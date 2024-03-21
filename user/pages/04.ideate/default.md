@@ -35,8 +35,7 @@ Once you have generated ideas, you will narrow down your list and eventually mov
 * Bodystorming is an immersive brainstorming technique. 
 * It is physical and hands-on where users and/or designers engage in simulation and role play to re-create an environment where the product or service that is being developed is used. 
 * It may require more planning and equipment but can be a fun approach that quickly finds problem areas and helps to resolve pain points.
-The founder of McDonald applied bodystorming with the staff, cooks, and leadership team to prototype the back-of-house space to optimize the workflow (photo credit: The Founder) | From Brainstorming to Bodystorming
-
+![Black and white photo of McDonald's the staff, cooks, and leadership team to prototype the back-of-house space to optimize the workflow](bodystorming.png)*The founder of McDonald applied bodystorming with the staff, cooks, and leadership team to prototype the back-of-house space to optimize the workflow (photo credit: The Founder, see references)*
 #### Mind Maps
 Mind mapping is a visual ideation technique, which can be done individually or as a team, on a whiteboard or on paper. 
 * Start with a central theme, it could be your problem definition

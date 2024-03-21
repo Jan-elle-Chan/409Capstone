@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/03.define/user-personas/default.md',
-    'modified' => 1708918742,
-    'size' => 934,
+    'modified' => 1711038965,
+    'size' => 1008,
     'data' => [
         'storage_key' => '03.define/user-personas',
         'header' => [
@@ -39,13 +39,13 @@ Persona for the Comox Valley Search and Rescue. Users visit the website to:
 * Learn about outdoor and adventure safety
 * Learn about becoming a member of CVSR
 
-![User Persona Comox Valley Search and Rescue](userPersonaCVSR.png){width=50%}
+![User Persona Comox Valley Search and Rescue](userPersonaCVSR.png)*Part of user persona Comox Valley Search and Rescue*
 
-
+<p></p>
 Persona for Reduce. Users are:
 * Younger, technologically oriented people who are environmentally conscious
 * Want to find ways to track and reduce their carbon dioxide output.
 
-![User Persona Reduce](userPersonaReduce.png)'
+![User Persona Reduce](userPersonaReduce.png)*User persona Reduce app*'
     ]
 ];
