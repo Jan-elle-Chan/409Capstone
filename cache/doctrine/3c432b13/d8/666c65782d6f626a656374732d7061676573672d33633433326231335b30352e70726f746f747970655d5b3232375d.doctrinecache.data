@@ -1,0 +1,25 @@
+1711041242
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:9:"prototype";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:12:"05.prototype";s:6:"header";a:1:{s:5:"title";s:9:"Prototype";}s:11:"frontmatter";s:0:"";s:8:"markdown";s:1642:"## Stage 4 - Prototype
+
+Using one or two ideas from the Ideate stage, you will build a model of that idea or solution. You are not building the actual product or solution only a model so it must be something that can be made easily in a short time and that you are willing to discard.
+
+During the prototyping stage, you may realise the importance of bits of information that you overlooked in the Empathize stage or even come up with brand new ideas. It is okay to go backwards (iterate through several stages) then make changes to your prototype. 
+
+It is also okay to complete the prototype, discard and re-build or make improvements several times (iteration within a stage).
+
+Depending on what you are designing prototypes can be made of cheap materials such as foam, cardboard, or paper. We will focus on digital products and the types of prototypes that are made for those.
+
+Low-fidelity wireframes
+
+Low-fidelity wireframes capture the basic concept of the product, that is, the features available and the general user flow through the system. They can be created in a number of ways.
+* Draw on a whiteboard for team visualization and feedback
+* Use sheets of paper, each sheet for a different screen
+* Create simple digital drawings, which is really fast if you have pre-made components from previous wireframes.
+
+
+
+High-Fidelity Prototypes
+High-fidelity prototypes look and behave very closely to the actual digital product. They are created with tools such Adobe XD and Figma which allow you to link features such as buttons to different screens, giving the user the feeling that they are moving through an actual piece of software.
+
+
+";s:4:"slug";s:9:"prototype";s:4:"name";s:10:"default.md";s:8:"ordering";b:1;}s:7:"storage";a:6:{s:3:"key";s:9:"prototype";s:11:"storage_key";s:12:"05.prototype";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1710782384;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1710782384;}}s:8:"checksum";s:32:"568a377a6742d3f35b3ad18bcae9b8db";}}

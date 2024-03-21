@@ -12,16 +12,20 @@ It is also okay to complete the prototype, discard and re-build or make improvem
 
 Depending on what you are designing prototypes can be made of cheap materials such as foam, cardboard, or paper. We will focus on digital products and the types of prototypes that are made for those.
 
-Low-fidelity wireframes
+### Low-fidelity wireframes
 
 Low-fidelity wireframes capture the basic concept of the product, that is, the features available and the general user flow through the system. They can be created in a number of ways.
 * Draw on a whiteboard for team visualization and feedback
 * Use sheets of paper, each sheet for a different screen
 * Create simple digital drawings, which is really fast if you have pre-made components from previous wireframes.
+![Digital Low Fidelity wireframe for Wave DS](digitalLowfi.png)*Low-fidelity wireframe for Wave DS, desktop and mobile*
+<hr>
 
-
-
-High-Fidelity Prototypes
-High-fidelity prototypes look and behave very closely to the actual digital product. They are created with tools such Adobe XD and Figma which allow you to link features such as buttons to different screens, giving the user the feeling that they are moving through an actual piece of software.
+### High-Fidelity Prototypes
+* High-fidelity prototypes look like the actual digital product. 
+* They are created with tools such Adobe XD and Figma
+* They focus on specific aspects of design such as buttons and fonts which are not important in low-fidelity wireframes. 
+* They may be grayscale or colour.
+![High-fidelity wirerame Reduce app](highfi.png)*High-fidelity wirerame Reduce app*
 
 
