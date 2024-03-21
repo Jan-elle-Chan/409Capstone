@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/03.define/default.md',
-    'modified' => 1710783487,
-    'size' => 795,
+    'modified' => 1711035426,
+    'size' => 814,
     'data' => [
         'storage_key' => '03.define',
         'header' => [
@@ -19,7 +19,7 @@ The problem statement you develop will be used to drive the Ideation stage.
 
 By now you will have a clear understanding of who the user is, what they want to accomplish, and what their pain points are.
 
-!!! A pain point is any obstruction, issue or challenge faced by the user in their attempt to accomplish their goal. Pain points present you with opportunities, in that they can be addressed in your solution, increasing its value to the user.
+!!! <strong>_A pain point is any obstruction, issue or challenge faced by the user in their attempt to accomplish their goal. Pain points present you with opportunities, in that they can be addressed in your solution, increasing its value to the user._</strong>
 
 ### Problem Definition Techniques or Tools 
 * [User personas](http://localhost/dtSimplified/define/user-personas)
