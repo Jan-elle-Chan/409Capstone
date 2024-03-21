@@ -32,8 +32,16 @@ class __TwigTemplate_3ff3881a7e87ac6494db2b1ee9aee1f82bc6a1201717d7a3dea6303a161
         // line 2
         echo twig_escape_filter($this->env, ($context["grid_size"] ?? null), "html", null, true);
         echo "\">
-        <p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdRxBe8XcXRCo2Bli_LJovnxYWVLBbQ8piaRWb9MTh8cMdFXw/viewform?usp=pp_url\">Contact Us</p>
-        <p>Copyright 2024</p>
+        <section class=\"footer-flex-container\">
+        <div>
+            <p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdRxBe8XcXRCo2Bli_LJovnxYWVLBbQ8piaRWb9MTh8cMdFXw/viewform?usp=pp_url\">Contact Us
+        </div>
+        <div>
+            Copyright 2024
+        </div>
+
+        </section>
+        
         
        
     </section>
@@ -68,8 +76,16 @@ class __TwigTemplate_3ff3881a7e87ac6494db2b1ee9aee1f82bc6a1201717d7a3dea6303a161
     {
         return new Source("<section id=\"footer\" class=\"section\">
     <section class=\"container {{ grid_size }}\">
-        <p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdRxBe8XcXRCo2Bli_LJovnxYWVLBbQ8piaRWb9MTh8cMdFXw/viewform?usp=pp_url\">Contact Us</p>
-        <p>Copyright 2024</p>
+        <section class=\"footer-flex-container\">
+        <div>
+            <p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdRxBe8XcXRCo2Bli_LJovnxYWVLBbQ8piaRWb9MTh8cMdFXw/viewform?usp=pp_url\">Contact Us
+        </div>
+        <div>
+            Copyright 2024
+        </div>
+
+        </section>
+        
         
        
     </section>

@@ -8,23 +8,17 @@ h6 {
 }
 
 
-#footer {
-    background-color: #445157;
-}
-
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1.0rem;
 }
 
-/*
+
 .navbar {
     display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
     justify-content: space-between;
    }
-*/
+
 
 .desktop-menu ul {
     display: flex;
@@ -40,16 +34,23 @@ body{
 .desktop-menu ul li a {
     text-decoration: none;
 }
-/*
+
 .desktop-menu{
-    margin-right: -5px;
-}*/
+    margin-right: 35px;
+}
 
 .mobile-log0{
     display: none;
 }
 
-.desktop-menu {
-    max-width: 75%;
-    overflow-x: auto;
+
+img + em{
+    font-size: 0.5rem;
+}
+
+.footer-flex-container {
+    border-top: solid #445157 1px;
+    padding: 3px;
+    display: flex;
+    justify-content: space-between;
 }
