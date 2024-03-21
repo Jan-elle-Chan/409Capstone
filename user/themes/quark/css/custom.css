@@ -7,6 +7,9 @@ h6 {
     color: #445157;
 }
 
+#header{
+    border-bottom: none;
+}
 
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -16,15 +19,30 @@ body{
 
 .navbar {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
    }
 
+   .navbar-section{
+    width: auto;
+   }
+
+.desktop-menu{
+    background-color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+   padding-top: 5px;
+   padding-bottom: 2px;
+}
 
 .desktop-menu ul {
     display: flex;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    width: 100%;
+    background-color: white;
     }
 
 .desktop-menu ul li {
@@ -35,9 +53,7 @@ body{
     text-decoration: none;
 }
 
-.desktop-menu{
-    margin-right: 35px;
-}
+
 
 .mobile-log0{
     display: none;
@@ -53,4 +69,6 @@ img + em{
     padding: 3px;
     display: flex;
     justify-content: space-between;
+    font-size: 0.25rem;
+    color: black;
 }

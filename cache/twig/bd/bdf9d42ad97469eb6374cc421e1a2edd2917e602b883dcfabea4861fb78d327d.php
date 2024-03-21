@@ -37,7 +37,7 @@ class __TwigTemplate_3ff3881a7e87ac6494db2b1ee9aee1f82bc6a1201717d7a3dea6303a161
             <p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdRxBe8XcXRCo2Bli_LJovnxYWVLBbQ8piaRWb9MTh8cMdFXw/viewform?usp=pp_url\">Contact Us
         </div>
         <div>
-            Copyright 2024
+            Copyright &copy; 2024
         </div>
 
         </section>
@@ -81,7 +81,7 @@ class __TwigTemplate_3ff3881a7e87ac6494db2b1ee9aee1f82bc6a1201717d7a3dea6303a161
             <p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdRxBe8XcXRCo2Bli_LJovnxYWVLBbQ8piaRWb9MTh8cMdFXw/viewform?usp=pp_url\">Contact Us
         </div>
         <div>
-            Copyright 2024
+            Copyright &copy; 2024
         </div>
 
         </section>
