@@ -13,14 +13,11 @@ During the Empathize stage you will use a variety of information gathering techn
 * Surveys
 * Interviews
 * Observation
-	* In-person
-	* Photograph
-	* Video
 * Bodystorming
-
+<hr>
 #### Empathy maps
 An empathy map is a simple visual tool used to help better understand the user. The map consists of a shape with the user at the center and sections for what the user:
-![Blank Empathy Map](empathyMap.png )
+![Blank Empathy Map](empathyMap.png )*Blank empathy map*
 
 **Says** <p>What the user actually says out loud, you can put user’s word in quotes on the diagram</p>
 **Thinks** <p>What the user really thinks but may not say out loud, based on information gathered so far. Sometimes Say and Think are placed in one section of the empathy map</p>
@@ -28,9 +25,11 @@ An empathy map is a simple visual tool used to help better understand the user. 
 **Feels** <p>For this section try to express the user’s emotions or feelings in a few words, such as “frustrated”, “overwhelmed”, “impatient”.</p>
 
 <p>Creating the empathy map helps to put in missing information about the user and give a clearer understanding of their attitude. As you do more research feel free to edit the empathy map to accurately reflect the user. </p>
-
+<hr>
 #### Surveys, Questionnaires, Polls
-All three tools are created by designers to get information from the user. However, they differ in length, structure and purpose.
+![Graphic of a questionnaire and bar graph](polls.png)
+<p>All three tools are created by designers to get information from the user. However, they differ in length, structure and purpose.</p>
+
 **Surveys** 
 * Longer
 * Variety of question types including open-ended
@@ -46,16 +45,16 @@ All three tools are created by designers to get information from the user. Howev
 * Usually just one question
 * Has limited options, may be Yes/ No or a scale of 1 to 5
 * Used for quick feedback on a very specific question such as “Was this useful?”
-
-
+<hr>
 #### Interviews
-If you are not familiar with conducting interviews, try interviewing users individually. When you become more comfortable then you can try small groups. 
+![Graphic of two people speaking, one with notebook and pencil](interview.png)
+<p>If you are not familiar with conducting interviews, try interviewing users individually. When you become more comfortable then you can try small groups.</p>
 * Prepare questions beforehand
 * Try to have open-ended questions not questions that have one-word answers, you definitely don’t want questions that have a Yes or No answer.
 * Select a place that is quiet and comfortable
 * Allocate thirty to sixty minutes based on the number of questions you have
 * Have a scribe with you, , especially in a group interview, that person’s role is not to speak during the interview but to record verbatim if possible
-
+<hr>
 #### Observation
 <p>Observation can be conducted in two main types of environment. They may be in-person only or photographs or videos may be taken as well. In the case of photographs and videos, these may be examined in detail later on.</p>
 
