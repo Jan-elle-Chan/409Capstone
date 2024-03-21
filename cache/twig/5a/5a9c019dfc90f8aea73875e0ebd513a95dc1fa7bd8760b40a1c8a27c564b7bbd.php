@@ -250,7 +250,7 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
         // line 47
         $this->loadTemplate("partials/logo.html.twig", "partials/base.html.twig", 47)->display($context);
         // line 48
-        echo "                        <section class=\"navbar-section desktop-menu\">
+        echo "                       <section class=\"navbar-section desktop-menu\">
 
                         <nav class=\"dropmenu animated\">
                         ";
@@ -272,7 +272,7 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
         echo "
                     </section>
                     </section>
-                    
+                     
                 </nav>
             </section>
         </section>
@@ -453,7 +453,7 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
                 <nav class=\"navbar\">
                     <section class=\"navbar-section logo\">
                         {% include 'partials/logo.html.twig' %}
-                        <section class=\"navbar-section desktop-menu\">
+                       <section class=\"navbar-section desktop-menu\">
 
                         <nav class=\"dropmenu animated\">
                         {% block header_navigation %}
@@ -467,7 +467,7 @@ class __TwigTemplate_3b0e64f37654278e97f7ba5d109b4c81fc8965afbb5510b2999e2681276
 
                     </section>
                     </section>
-                    
+                     
                 </nav>
             </section>
         </section>

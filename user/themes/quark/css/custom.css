@@ -17,13 +17,14 @@ body{
     font-size: 1.0rem;
 }
 
-
-
+/*
 .navbar {
     display: flex;
-    justify-content: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: space-between;
    }
-
+*/
 
 .desktop-menu ul {
     display: flex;
@@ -33,17 +34,22 @@ body{
     }
 
 .desktop-menu ul li {
-    margin: 0 10px;
+    margin: 0 5px;
 }
 
 .desktop-menu ul li a {
     text-decoration: none;
 }
-
+/*
 .desktop-menu{
-    margin-right: 35px;
-}
+    margin-right: -5px;
+}*/
 
 .mobile-log0{
     display: none;
+}
+
+.desktop-menu {
+    max-width: 75%;
+    overflow-x: auto;
 }

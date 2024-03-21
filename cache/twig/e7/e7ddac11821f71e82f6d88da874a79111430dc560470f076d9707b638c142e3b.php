@@ -87,6 +87,6 @@ class __TwigTemplate_e25e4c9476de9725744f17dfbf78bd98d4a083c0097006da74cee0dc5d2
 {% else %}
   {% include('@images/grav-logo.svg') %}
 {% endif %}
-</a>", "partials/logo.html.twig", "C:\\xampp\\htdocs\\grav-admin\\user\\themes\\quark\\templates\\partials\\logo.html.twig");
+</a>", "partials/logo.html.twig", "C:\\xampp\\htdocs\\dtSimplified\\user\\themes\\quark\\templates\\partials\\logo.html.twig");
     }
 }
