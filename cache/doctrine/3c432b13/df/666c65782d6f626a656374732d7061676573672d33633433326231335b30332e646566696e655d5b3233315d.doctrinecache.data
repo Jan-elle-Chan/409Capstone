@@ -1,4 +1,4 @@
-1711043675
+1711938241
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"define";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:9:"03.define";s:6:"header";a:1:{s:5:"title";s:6:"Define";}s:11:"frontmatter";s:13:"title: Define";s:8:"markdown";s:791:"## Stage 2 - Define
 
 During the define stage you will use the information gathered from the Empathize stage to help define the user problem. 
@@ -14,4 +14,4 @@ By now you will have a clear understanding of who the user is, what they want to
 * Users Stories
 * How Might We Statements
 * Point of View Statement
-";s:4:"slug";s:6:"define";s:4:"name";s:10:"default.md";s:8:"ordering";b:1;}s:7:"storage";a:7:{s:3:"key";s:6:"define";s:11:"storage_key";s:9:"03.define";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1711035426;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1711035426;}}s:8:"children";a:1:{s:13:"user-personas";b:0;}s:8:"checksum";s:32:"e306cc17fdf4ceedc0264a53949b3d78";}}
+";s:4:"slug";s:6:"define";s:4:"name";s:10:"default.md";s:8:"ordering";b:1;}s:7:"storage";a:7:{s:3:"key";s:6:"define";s:11:"storage_key";s:9:"03.define";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1711937581;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1711035426;}}s:8:"children";a:1:{s:13:"user-personas";b:0;}s:8:"checksum";s:32:"8333359bb54fca6f96a8923fd49fb386";}}

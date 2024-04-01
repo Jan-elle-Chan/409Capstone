@@ -5,7 +5,7 @@ title: Empathize
 ## Stage 1 - Empathize
 During the Empathize stage you will use a variety of information gathering techniques to try to connect and understand the user. You basically try “to put yourself in their shoes” and unconventional techniques like bodystorming can help you with this. The information you gather in this stage is used in the Define Stage.
 
-!!! <strong> _Act as if it is all new to you, take a fresh look and leave your opinions and assumptions behind. Ask - What? How? Why? Look for patterns and document your findings._</strong>
+> **_NOTE:_**  Act as if it is all new to you, take a fresh look and leave your opinions and assumptions behind. Ask - What? How? Why? Look for patterns and document your findings.
 
 
 ### Empathize Techniques or Tools
@@ -23,8 +23,10 @@ An empathy map is a simple visual tool used to help better understand the user. 
 **Thinks** <p>What the user really thinks but may not say out loud, based on information gathered so far. Sometimes Say and Think are placed in one section of the empathy map</p>
 **Does** <p>The physical actions, such as clicking on the Save button, or refreshes page, walks away and waits for page to load.</p>
 **Feels** <p>For this section try to express the user’s emotions or feelings in a few words, such as “frustrated”, “overwhelmed”, “impatient”.</p>
-
+<details>
+    <summary>Read more</summary>
 <p>Creating the empathy map helps to put in missing information about the user and give a clearer understanding of their attitude. As you do more research feel free to edit the empathy map to accurately reflect the user. </p>
+    </details>
 <hr>
 #### Surveys, Questionnaires, Polls
 ![Graphic of a questionnaire and bar graph](polls.png)
@@ -42,9 +44,11 @@ An empathy map is a simple visual tool used to help better understand the user. 
 * Not used for in depth analysis 
 
 **Polls**
+<ul>
 * Usually just one question
 * Has limited options, may be Yes/ No or a scale of 1 to 5
 * Used for quick feedback on a very specific question such as “Was this useful?”
+   </ul>
 <hr>
 #### Interviews
 ![Graphic of two people speaking, one with notebook and pencil](interview.png)

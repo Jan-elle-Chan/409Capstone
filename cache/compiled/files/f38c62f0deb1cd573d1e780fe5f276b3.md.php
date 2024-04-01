@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/03.define/default.md',
-    'modified' => 1711035426,
-    'size' => 814,
+    'modified' => 1711937765,
+    'size' => 860,
     'data' => [
         'storage_key' => '03.define',
         'header' => [
@@ -26,7 +26,8 @@ By now you will have a clear understanding of who the user is, what they want to
 * Users Stories
 * How Might We Statements
 * Point of View Statement
-',
+
+![povTemplate](povTemplate.png "povTemplate")',
         'slug' => 'define',
         'name' => 'default.md',
         'ordering' => true

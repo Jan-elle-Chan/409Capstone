@@ -17,3 +17,5 @@ By now you will have a clear understanding of who the user is, what they want to
 * Users Stories
 * How Might We Statements
 * Point of View Statement
+
+![povTemplate](povTemplate.png "povTemplate")

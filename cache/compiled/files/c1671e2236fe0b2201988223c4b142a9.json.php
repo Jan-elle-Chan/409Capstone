@@ -2,12 +2,12 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/data/flex/indexes/pages.json',
-    'modified' => 1711043073,
-    'size' => 1951,
+    'modified' => 1712000652,
+    'size' => 1674,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1711043073,
-        'count' => 9,
+        'timestamp' => 1712000652,
+        'count' => 8,
         'index' => [
             '' => [
                 'key' => '',
@@ -41,40 +41,25 @@ return [
                 'key' => 'empathize',
                 'storage_key' => '02.empathize',
                 'template' => 'default',
-                'storage_timestamp' => 1711035223,
+                'storage_timestamp' => 1712000652,
                 'markdown' => [
                     '' => [
-                        'default' => 1711035223
+                        'default' => 1712000652
                     ]
                 ],
-                'checksum' => '69d2a9612b41fd86428f4ab808fd88d7'
+                'checksum' => 'ecd43e8b4a6aaeea98d92a2ecaaefab1'
             ],
             '03.define' => [
                 'key' => 'define',
                 'storage_key' => '03.define',
                 'template' => 'default',
-                'storage_timestamp' => 1711035426,
+                'storage_timestamp' => 1711999546,
                 'markdown' => [
                     '' => [
-                        'default' => 1711035426
+                        'default' => 1711937765
                     ]
                 ],
-                'children' => [
-                    'user-personas' => 1708977137
-                ],
-                'checksum' => 'e306cc17fdf4ceedc0264a53949b3d78'
-            ],
-            '03.define/user-personas' => [
-                'key' => 'define/user-personas',
-                'storage_key' => '03.define/user-personas',
-                'template' => 'default',
-                'storage_timestamp' => 1711038965,
-                'markdown' => [
-                    '' => [
-                        'default' => 1711038965
-                    ]
-                ],
-                'checksum' => '60d261a47c2dc0690ea898c286c62145'
+                'checksum' => 'd524e38fbe82e6dfd3ab4dd31435991d'
             ],
             '04.ideate' => [
                 'key' => 'ideate',

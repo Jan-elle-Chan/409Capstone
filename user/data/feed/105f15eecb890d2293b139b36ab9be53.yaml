@@ -1,4 +1,4 @@
-last_checked: 1710779086
+last_checked: 1711985049
 data:
   -
     title: 'macOS 14.0 Sonoma Apache Setup: Upgrading Homebrew'
@@ -46,7 +46,7 @@ data:
     date: 1611050100
     nicetime: '3 years ago'
   -
-    title: 'Grav Premium Focus: NextGen Editor'
-    url: 'https://getgrav.org/blog/premium-focus-nextgen-editor'
-    date: 1610713140
+    title: 'Grav 1.7 Stable Release - One week away!'
+    url: 'https://getgrav.org/blog/grav-17-stable-imminent'
+    date: 1610457780
     nicetime: '3 years ago'
