@@ -1,0 +1,120 @@
+1712015648
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:9:"empathize";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:12:"02.empathize";s:6:"header";a:1:{s:5:"title";s:9:"Empathize";}s:11:"frontmatter";s:0:"";s:8:"markdown";s:7136:"## Stage 1 - Empathize
+During the Empathize stage you will use a variety of information gathering techniques to try to connect and understand the user. You basically try “to put yourself in their shoes” and unconventional techniques like bodystorming can help you with this. The information you gather in this stage is used in the Define Stage.
+
+> **_NOTE:_**  Act as if it is all new to you, take a fresh look and leave your opinions and assumptions behind. Ask - What? How? Why? Look for patterns and document your findings.
+
+
+### Empathize Techniques
+<ul>
+<li>Empathy maps</li>
+<li> Surveys</li>
+<li>Interviews</li>
+<li>Observation</li>
+<li>Bodystorming</li>
+    </ul>
+  <br>
+<hr>
+#### Empathy maps
+![Blank Empathy Map](empathymapTemplate.png )*Blank empathy map*
+<p>Creating the empathy map helps to put in missing information about the user and give a clearer understanding of their attitude. As you do more research feel free to edit the empathy map to accurately reflect the user. </p>
+ <details>
+    <summary>How to create an empathy map</summary>
+<p>An empathy map is a simple visual tool used to help better understand the user. The map consists of a shape with the user at the center and sections for what the user:</p>
+<p> <strong>Says</strong> What the user actually says out loud, you can put user’s word in quotes on the diagram</p>
+<p> <strong>Thinks</strong> What the user really thinks but may not say out loud, based on information gathered so far. Sometimes Say and Think are placed in one section of the empathy map</p>
+<p> <strong>Does</strong> The physical actions, such as clicking on the Save button, or refreshes page, walks away and waits for page to load.</p>
+<p> <strong>Feels</strong> For this section try to express the user’s emotions or feelings in a few words, such as “frustrated”, “overwhelmed”, “impatient”.</p>
+    </details>
+   <br>
+<hr>
+#### Surveys, Questionnaires, Polls
+![Graphic of a questionnaire and bar graph](polls.png)
+<p>All three tools are created by designers to get information from the user. However, they differ in length, structure and purpose.</p>
+<details><summary> Find out how they are different</summary>
+<h5> Surveys</h5>
+<ul>
+    <li>Longer</li>
+ 	<li>Variety of question types including open-ended</li>
+ 	<li>Information gathered is used for in depth analysis </li>
+</ul>
+<h5> Questionnaires</h5>
+<ul>
+	<li>Can vary in length</li>
+	<li>Provide information on a specific topic area such as customer satisfaction</li>
+ 	<li>Questions tend to offer users options, check-boxes, multiple choice</li>
+ 	<li>Not used for in depth analysis</li>
+</ul>
+
+<h5>Polls</h5>
+ <ul>
+ 	<li>Usually just one question</li>
+ 	<li>Has limited options, may be Yes/ No or a scale of 1 to 5</li>
+ 	<li>Used for quick feedback on a very specific question such as “Was this useful?”</li>
+ </ul>
+ <br>
+ </details>
+ <br>
+<hr>
+#### Interviews
+![Graphic of two people speaking, one with notebook and pencil](interview.png)
+<p>An interview is a common data-gathering method that is very simple to set up yet very powerful when done well. They can be one-on-one or conducted with several people although it is recommended that if you are inexperienced or not familiar with the subject matter you try one-on-one first.</p>
+
+Interviews must be
+* Well thought out and purposeful
+* NOT treated as an informal discussion
+* Lead to actionable summarised information
+
+<details><summary>Useful interview tips</summary>
+<ul>
+	<li>Prepare questions beforehand</li>
+	<li>Try to have open-ended questions not questions that have one-word answers, you definitely don’t want questions that have a Yes or No answer</li>
+	<li>Select a place that is quiet and comfortable</li>
+	<li>Allocate thirty to sixty minutes based on the number of questions you have</li>
+	<li>Have a scribe with you, , especially in a group interview, that person’s role is not to speak during the interview but to record verbatim if possible</li>
+	<li>Summarize results and look for patterns or data that varies from the norm significantly (these may be an opportunity for innovation)</li>
+	<li>Results must be organised and presented into actionable information</li>
+</ul>
+</details>
+<br>
+<hr>
+#### Observation
+<p>Observation can be conducted in two main types of environment: controlled and natural. They may be in-person only or photographs or videos may be taken as well. In the case of photographs and videos, these may be examined in detail later on. All obesrvations must be documented, summarised and interpreted.</p>
+
+<details><summary>Learn more about Observation Environments</summary>
+<h5>Controlled Environment</h5>
+<p>Companies may choose to set up a space that is a replication of the actual space where the user may interact with the product or service. You can observe the user interacting with the product or service and make notes. It is expected that you will not intrude on the user’s experience. However, the user should be made aware and give consent to being observed.</p>
+
+<h5>Natural Environment</h5>
+<p>The designer will go to the actual real world space where the user usually interacts with the product or service. There, they will observe the user and note what they do. In this type of observation it is possible for the designer to ask the user questions provided they do not interfere with the way the user completes the task.</p>
+</details>
+<br><hr>
+### References
+Coursera What is an Empathy Map
+[https://www.coursera.org/articles/what-is-empathy-map](https://www.coursera.org/articles/what-is-empathy-map)
+
+Farrel, S. and Fessenden, T. (Norman Nielsen) Field Studies
+[https://www.nngroup.com/articles/field-studies/](https://www.nngroup.com/articles/field-studies/)
+
+Gibbons, S. (Nielson Norman Group) Empathy Mapping: The First Step in Design Thinking
+[https://www.nngroup.com/articles/empathy-mapping/](https://www.nngroup.com/articles/empathy-mapping/)
+
+
+Kitch, B. How to Identify Pain Points in the User Experience [+ Templates]
+[https://www.mural.co/blog/identify-user-pain-points](https://www.mural.co/blog/identify-user-pain-points)
+
+Maze Ask, Analyze, Action: Your Guide to UX Surveys
+[https://maze.co/guides/ux-surveys](https://maze.co/guides/ux-surveys)
+
+Mantzios, M. User interviews. An essential part of every UX process
+[https://bootcamp.uxdesign.cc/user-interviews-an-essential-part-of-every-ux-process-35bac6170ddf](https://bootcamp.uxdesign.cc/user-interviews-an-essential-part-of-every-ux-process-35bac6170ddf)
+
+Perficient Design Thinking: Empathy & Observation (Pt 3)
+[https://blogs.perficient.com/2019/01/16/design-thinking-empathy-observation-pt-3/](https://blogs.perficient.com/2019/01/16/design-thinking-empathy-observation-pt-3/)
+
+Stevens, E. (Career Foundry) What Empathy in Design Thinking is and Why it’s Important
+[https://careerfoundry.com/en/blog/ux-design/what-is-empathy-in-design-thinking/](https://careerfoundry.com/en/blog/ux-design/what-is-empathy-in-design-thinking/)
+
+Thornton, P. How to conduct user interviews
+[https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7](https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7)
+";s:4:"slug";s:9:"empathize";s:4:"name";s:10:"default.md";s:8:"ordering";b:1;}s:7:"storage";a:6:{s:3:"key";s:9:"empathize";s:11:"storage_key";s:12:"02.empathize";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1712009179;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1712009179;}}s:8:"checksum";s:32:"e9729b8ceff358eed7a27a0e0af07284";}}
