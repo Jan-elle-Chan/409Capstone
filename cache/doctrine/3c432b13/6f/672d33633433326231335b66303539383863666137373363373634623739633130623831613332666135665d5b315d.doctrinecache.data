@@ -1,0 +1,67 @@
+1712605840
+a:2:{s:7:"content";s:4839:"<h2>Stage 1 - Empathize</h2>
+<p>During the Empathize stage you will use a variety of information gathering techniques to try to connect and understand the user. You basically try “to put yourself in their shoes” and unconventional techniques like bodystorming can help you with this. The information you gather in this stage is used in the Define Stage.</p>
+<blockquote>
+<p><strong><em>NOTE:</em></strong>  Act as if it is all new to you, take a fresh look and leave your opinions and assumptions behind. Ask - What? How? Why? Look for patterns and document your findings.</p>
+</blockquote>
+<h3>Empathize Techniques or Tools</h3>
+<ul>
+<li>Empathy maps</li>
+<li>Surveys</li>
+<li>Interviews</li>
+<li>Observation</li>
+<li>Bodystorming
+<hr>
+<h4>Empathy maps</h4>
+<p>An empathy map is a simple visual tool used to help better understand the user. The map consists of a shape with the user at the center and sections for what the user:
+<img alt="Blank Empathy Map" src="/dtSimplified/user/pages/02.empathize/empathymapTemplate.png" /><em>Blank empathy map</em></p></li>
+</ul>
+<p><strong>Says</strong> <p>What the user actually says out loud, you can put user’s word in quotes on the diagram</p>
+<strong>Thinks</strong> <p>What the user really thinks but may not say out loud, based on information gathered so far. Sometimes Say and Think are placed in one section of the empathy map</p>
+<strong>Does</strong> <p>The physical actions, such as clicking on the Save button, or refreshes page, walks away and waits for page to load.</p>
+<strong>Feels</strong> <p>For this section try to express the user’s emotions or feelings in a few words, such as “frustrated”, “overwhelmed”, “impatient”.</p></p>
+<details>
+    <summary>Read more</summary>
+<p>Creating the empathy map helps to put in missing information about the user and give a clearer understanding of their attitude. As you do more research feel free to edit the empathy map to accurately reflect the user. </p>
+    </details>
+<hr>
+<h4>Surveys, Questionnaires, Polls</h4>
+<p><img alt="Graphic of a questionnaire and bar graph" src="/dtSimplified/user/pages/02.empathize/polls.png" /></p>
+<p>All three tools are created by designers to get information from the user. However, they differ in length, structure and purpose.</p>
+<p><strong>Surveys</strong> </p>
+<ul>
+<li>Longer</li>
+<li>Variety of question types including open-ended</li>
+<li>Information gathered is used for in depth analysis </li>
+</ul>
+<p><strong>Questionnaires</strong></p>
+<ul>
+<li>Can vary in length</li>
+<li>Provide information on a specific topic area such as customer satisfaction</li>
+<li>Questions tend to offer users options, check-boxes, multiple choice</li>
+<li>Not used for in depth analysis </li>
+</ul>
+<p><strong>Polls</strong></p>
+<ul>
+* Usually just one question
+* Has limited options, may be Yes/ No or a scale of 1 to 5
+* Used for quick feedback on a very specific question such as “Was this useful?”
+   </ul>
+<hr>
+<h4>Interviews</h4>
+<p><img alt="Graphic of two people speaking, one with notebook and pencil" src="/dtSimplified/user/pages/02.empathize/interview.png" /></p>
+<p>If you are not familiar with conducting interviews, try interviewing users individually. When you become more comfortable then you can try small groups.</p>
+<ul>
+<li>Prepare questions beforehand</li>
+<li>Try to have open-ended questions not questions that have one-word answers, you definitely don’t want questions that have a Yes or No answer.</li>
+<li>Select a place that is quiet and comfortable</li>
+<li>Allocate thirty to sixty minutes based on the number of questions you have</li>
+<li>Have a scribe with you, , especially in a group interview, that person’s role is not to speak during the interview but to record verbatim if possible
+<hr>
+<h4>Observation</h4>
+<p>Observation can be conducted in two main types of environment. They may be in-person only or photographs or videos may be taken as well. In the case of photographs and videos, these may be examined in detail later on.</p></li>
+</ul>
+<p><strong>Controlled Environment</strong></p>
+<p>Companies may choose to set up a space that is a replication of the actual space where the user may interact with the product or service. You can observe the user interacting with the product or service and make notes. It is expected that you will not intrude on the user’s experience. However, the user should be made aware and give consent to being observed.</p>
+<p><strong>Natural Environment</strong></p>
+<p>The designer will go to the actual real world space where the user usually interacts with the product or service. There, they will observe the user and note what they do. In this type of observation it is possible for the designer to ask the user questions provided they do not interfere with the way the user completes the task.</p>";s:12:"content_meta";N;}
