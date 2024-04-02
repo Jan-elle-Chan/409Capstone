@@ -2,11 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/data/flex/indexes/pages.json',
-    'modified' => 1712015302,
+    'modified' => 1712016062,
     'size' => 1674,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1712015302,
+        'timestamp' => 1712016062,
         'count' => 8,
         'index' => [
             '' => [
@@ -53,13 +53,13 @@ return [
                 'key' => 'define',
                 'storage_key' => '03.define',
                 'template' => 'default',
-                'storage_timestamp' => 1712015302,
+                'storage_timestamp' => 1712016062,
                 'markdown' => [
                     '' => [
-                        'default' => 1712015302
+                        'default' => 1712016062
                     ]
                 ],
-                'checksum' => '8de19a3e4d5e882a508e4da356ee6d15'
+                'checksum' => '7a9e7219a8c869f95e443a6d88b9a7e9'
             ],
             '04.ideate' => [
                 'key' => 'ideate',

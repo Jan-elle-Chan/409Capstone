@@ -53,7 +53,12 @@ body{
     text-decoration: none;
 }
 
-
+summary{
+    background-color: lightgrey;
+}
+details{
+    background-color: lightgray;
+}
 
 .mobile-log0{
     display: none;

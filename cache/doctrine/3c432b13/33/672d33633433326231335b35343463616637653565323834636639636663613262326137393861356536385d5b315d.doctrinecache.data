@@ -1,0 +1,131 @@
+1712620810
+a:2:{s:7:"content";s:7123:"<h2>Stage 2 - Define</h2>
+<p>During the define stage you will use the information gathered from the Empathize stage to help define the user problem.
+The problem statement you develop will be used to drive the Ideation stage.</p>
+<p>By now you will have a clear understanding of who the user is, what they want to accomplish, and what their pain points are.</p>
+<blockquote>
+<p><strong><em>NOTE:</em></strong> <em>A pain point is any obstruction, issue or challenge faced by the user in their attempt to accomplish their goal. Pain points present you with opportunities, in that they can be addressed in your solution, increasing its value to the user.</em></p>
+</blockquote>
+<h3>Problem Definition Techniques or Tools</h3>
+<ul>
+<li>User personas</li>
+<li>Users Stories</li>
+<li>How Might We Statements</li>
+<li>Point of View Statement</li>
+</ul>
+<h4>User personas</h4>
+<p>A user persona is a representation of your target audience that you have made up based on data collected.
+It must consider:</p>
+<ol>
+<li>Who are they? – general background about user</li>
+<li>What are their goals – what they want to accomplish, what information do they want to find, service or product</li>
+<li>What are their pain points – challenges with accomplishing their goal</li>
+</ol>
+<details><summary>What can a user persona include?</summary>
+<ul>
+<li>Name</li>
+<li>Picture</li>
+<li>Quote</li>
+<li>Short biography</li>
+<li>Background</li>
+<li>Needs</li>
+<li>Goals or objectives</li>
+<li>Pain points or challenges</li>
+<li>Behaviours</li>
+<li>Skills – communication, technological, or related to product</li>
+<li>Products used</li>
+<li>Demographics</li>
+    </ul>
+</details>
+<p><br></p>
+<h5>User Personas Examples</h5>
+<p>Persona for the Comox Valley Search and Rescue. Users visit the website to:</p>
+<ul>
+<li>Learn about outdoor and adventure safety</li>
+<li>Learn about becoming a member of CVSR
+<details><summary>See example</summary>
+![User Persona CVSR](userPersonaCVSR.png)*User Persona CVSR*
+</details>
+<p><br>
+<br>
+Persona for Reduce. Users are:</p></li>
+<li>Younger, technologically oriented people who are environmentally conscious</li>
+<li>Want to find ways to track and reduce their carbon dioxide output.
+<details><summary>See example</summary>
+![User Persona Reduce](userPersonaReduce.png)*User Persona Reduce*
+<img src="userPersonaReduce.png">
+</details></li>
+</ul>
+<hr>
+<h4>User Stories</h4>
+<p>User stories are statements written from someone’s point of view. Most of the time the ‘someone’ is a user but it can also be another stakeholder. They summarise what the user wants to achieve. </p>
+<p><img alt="User StoryTemplate" src="/dtSimplified/user/pages/03.define/userstoryTemplate.png" /><em>User Story Template</em></p>
+<h5>User Story Example</h5>
+<p>Toy library: As a parent I want to access exchangeable toys so that I can provide novel experiences for my toddler to fit by budget</p>
+<details><summary>More about user stories and more examples</summary>
+Search and Rescue: As an outdoor adventure guide I want to learn about search and rescue guidelines and area-specific news to have safe group outings.
+
+Reduce App: As a global citizen I want to be able to keep track of how much carbon dioxide I am producing so I be reassured that the steps I have been taking to help the environment have been working.
+
+User stories are
+<ul>
+<li>informal </li>
+<li>goal-oriented</li>
+<li>written in natural language</li>
+</ul>
+User stories Do Not
+<ul>
+    <li>Describe a software feature </li>
+    <li>Explain how the goal will be achieved</li>
+ </ul>
+</details>
+<hr>
+<h4>Point of View Statements</h4>
+<p>Point of View statements describe the user’s needs.
+They are similar to user stories
+They describe a challenge as a problem statement
+Are actionable statements
+Have a narrow focus</p>
+<p><img alt="Point of View Statement Template" src="/dtSimplified/user/pages/03.define/povTemplate.png" /><em>Point of View Statement Template</em></p>
+<p>Point of View Statement Examples</p>
+<p>A department supervisor needs a way to have meetings with department members who work across various shifts because having everyone’s input into how the department runs can improve its efficiency.</p>
+<hr>
+<h4>How Might We Questions</h4>
+<p>A single POV statement may generate several How Might We questions.
+<img alt="howmightweGraphic" src="/dtSimplified/user/pages/03.define/howmightweGraphic.png" /><em>How Might We Question Template</em>
+<br><br>
+How Might We Questions </p>
+<ul>
+<li>Are short questions that focus on some aspect of the POV</li>
+<li>Intended to spark idea generation in the Ideate stage</li>
+<li>Break down the POV – the user, needs, reason</li>
+<li>Try formulating a question around each</li>
+<li>Try out different verbs with each to get different questions</li>
+<li>Don’t be scared to take the HMWs back to Empathize and use them as interview questions (iteration!)</li>
+</ul>
+<p>Here are some example using the POV from the previous section. Notice they do not all focus on getting a meeting organised but focus on the goals as well: getting everyone’s input and making the department more efficient.
+How might we improve department efficiency?
+How might we get department members’ input on running the department?
+How might we arrange department meetings to include all members?</p>
+<p>The first HMW above could have used a different verb that led to a different question entirely and a different stream of ideas</p>
+<ul>
+<li>How might we measure department efficiency?</li>
+<li>How can we sustain department efficiency?
+<br><hr></li>
+</ul>
+<h3>References</h3>
+<p>Filipova, S. How Might We Method: How to Make a Cool Product
+<a href="https://fulcrum.rocks/blog/how-might-we-method">https://fulcrum.rocks/blog/how-might-we-method</a></p>
+<p>Interaction Design Foundation User Stories
+<a href="https://www.interaction-design.org/literature/topics/user-stories">https://www.interaction-design.org/literature/topics/user-stories</a></p>
+<p>Interaction Design Foundation What is How Might We (HMW)?
+<a href="https://www.interaction-design.org/literature/topics/how-might-we">https://www.interaction-design.org/literature/topics/how-might-we</a></p>
+<p>Intuit Mailchimp
+<a href="https://mailchimp.com/resources/how-to-create-a-user-persona-ux/">https://mailchimp.com/resources/how-to-create-a-user-persona-ux/</a></p>
+<p>Otakoyi Software Zhmikhov, Y. Point of view (POV) - Problem statement &amp; How might we (HMW) questions
+<a href="https://otakoyi.software/blog/point-of-view-pov-problem-statement-how-might-we-hmw-questions">https://otakoyi.software/blog/point-of-view-pov-problem-statement-how-might-we-hmw-questions</a></p>
+<p>Perficient Design Thinking: How to Create Your POV (Part 4)
+<a href="https://blogs.perficient.com/2019/02/08/design-thinking-how-to-create-your-pov-part-4/">https://blogs.perficient.com/2019/02/08/design-thinking-how-to-create-your-pov-part-4/</a></p>
+<p>Rehkopf, M. User stories with examples and a template
+<a href="https://www.atlassian.com/agile/project-management/user-stories">https://www.atlassian.com/agile/project-management/user-stories</a></p>
+<p> </p>";s:12:"content_meta";N;}

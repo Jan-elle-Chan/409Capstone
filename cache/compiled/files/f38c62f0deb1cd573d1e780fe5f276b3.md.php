@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/03.define/default.md',
-    'modified' => 1712015302,
-    'size' => 6343,
+    'modified' => 1712016062,
+    'size' => 6346,
     'data' => [
         'storage_key' => '03.define',
         'header' => [
@@ -62,7 +62,7 @@ Persona for Reduce. Users are:
 * Younger, technologically oriented people who are environmentally conscious
 * Want to find ways to track and reduce their carbon dioxide output.
 ![User Persona Reduce](userPersonaReduce.png)*User Persona Reduce*
- 
+
 
 <hr>
 
@@ -110,8 +110,8 @@ A department supervisor needs a way to have meetings with department members who
 #### How Might We Questions
 A single POV statement may generate several How Might We questions. 
 ![howmightweGraphic](howmightweGraphic.png)*How Might We Question Template*
-<br>
-How Might We questions 
+<br><br>
+How Might We Questions 
 * Are short questions that focus on some aspect of the POV
 * Intended to spark idea generation in the Ideate stage
 * Break down the POV – the user, needs, reason
