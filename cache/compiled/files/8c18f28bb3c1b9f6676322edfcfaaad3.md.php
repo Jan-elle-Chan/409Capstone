@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/04.ideate/default.md',
-    'modified' => 1711040705,
-    'size' => 5355,
+    'modified' => 1712026359,
+    'size' => 6391,
     'data' => [
         'storage_key' => '04.ideate',
         'header' => [
@@ -12,11 +12,13 @@ return [
         'root' => false,
         'frontmatter' => '',
         'markdown' => '## Stage 3 - Ideate
-!!! <strong>_Many novel ideas lead to innovation_</strong>
+
  
 Keeping the problem statement developed from the previous stage at the front of your mind, come up with as many ideas as possible to solve it. It doesn’t matter how far-fetched or simple the ideas may be. Don’t overthink or think about which ones are good or bad, easy to implement, fun or unfeasible, just generate ideas.
  
-Once you have generated ideas, you will narrow down your list and eventually move forward to the prototype stage with one or two ideas.
+ > **_NOTE:_**_Many novel ideas lead to innovation_
+
+<p>Once you have generated ideas, you will narrow down your list and eventually move forward to the prototype stage with one or two ideas.</p>
 * Group very similar ideas
 * Combine ideas if necessary
 * Evaluate them based on available resources (time, technology skill, design skill, budget)
@@ -26,31 +28,35 @@ Once you have generated ideas, you will narrow down your list and eventually mov
 * Mind maps
 * Sketches
 * Reverse brainstorming or negative brainstorming
-* Storyboards
-* Brainwriting
 * SCAMPER
 
 
 
 <hr>
 #### Brainstorming
-* Brainstorming is the go-to ideation technique. 
-* It can be used individually or in a team. 
-* There are many ways you can brainstorm, even utilising other techniques such as sketching and mind-maps. 
-* When brainstorming try to focus on questions not just solutions and as with any form of ideation be as open-minded as possible.
+<ul>
+	<li>Brainstorming is the go-to ideation technique</li>
+	<li>It can be used individually or in a team</li>
+	<li>There are many ways you can brainstorm, even utilising other techniques such as sketching and mind-maps</li> 
+	<li>When brainstorming try to focus on questions not just solutions and as with any form of ideation be as open-minded as possible</li>
+</ul>
 <hr>
 #### Bodystorming
-* Bodystorming is an immersive brainstorming technique. 
-* It is physical and hands-on where users and/or designers engage in simulation and role play to re-create an environment where the product or service that is being developed is used. 
-* It may require more planning and equipment but can be a fun approach that quickly finds problem areas and helps to resolve pain points.
+<ul>
+	<li>Bodystorming is an immersive brainstorming technique</li>
+	<li>It is physical and hands-on where users and/or designers engage in simulation and role play to re-create an environment where the product or service that is 	being developed is used</li>
+	<li>It may require more planning and equipment but can be a fun approach that quickly finds problem areas and helps to resolve pain points</li>
+ </ul>
 ![Black and white photo of McDonald\'s the staff, cooks, and leadership team to prototype the back-of-house space to optimize the workflow](bodystorming.png)*The founder of McDonald applied bodystorming with the staff, cooks, and leadership team to prototype the back-of-house space to optimize the workflow (photo credit: The Founder, see references)*
 <hr>
 #### Mind Maps
 Mind mapping is a visual ideation technique, which can be done individually or as a team, on a whiteboard or on paper. 
-* Start with a central theme, it could be your problem definition
-* Create branches, each branch can be a related concept, don’t worry about it being a solution
-* Develop each branch further, adding on related ideas
-* If sub-branches can be further divided go ahead and do so
+<ul>
+	<li>Start with a central theme, it could be your problem definition</li>
+	<li>Create branches, each branch can be a related concept, don’t worry about it being a solution</li>
+	<li>Develop each branch further, adding on related ideas</li>
+	<li>If sub-branches can be further divided go ahead and do so</li>
+</ul>
 ![Mindmap example](mindmap.png)*Mindmap Example*
 <hr>
 #### Sketches
@@ -61,52 +67,77 @@ An individual may make multiple sketches quickly then choose a few to refine bef
 <hr>
 #### SCAMPER
 
-SCAMPER is an ideation method that encourages divergent thinking. Users explore existing products, services or concepts, and through the application of the acronym’s activities, develop new products, services or concepts. 
-For simplicity we will refer to the product, service or concept as the item.
+<p>SCAMPER is an ideation method that encourages divergent thinking. Users explore existing products, services or concepts, and through the application of the acronym’s activities, develop new products, services or concepts. 
+For simplicity we will refer to the product, service or concept as the item.</p>
 
-**S**ubstitute
-**C**ombine 
-**A**dapt
-**M**odify
-**P**ut to another use
-**E**liminate
-**R**everse
+**S**ubstitute<br>
+**C**ombine <br>
+**A**dapt<br>
+**M**odify<br>
+**P**ut to another use<br>
+**E**liminate<br>
+**R**everse<br>
 
-
-**Substitute**
+<details><summary>Read more about SCAMPER</summary>
+Substitute
 <p>Replacing part or all the item with something else. Some of the biggest innovations involve a radical change, for example, what were radios replaced with?</p>
 
-**Combine**
+Combine
 <p>Combine two or more features of an item or two or more items to create something new. At some point in time someone came up with the idea to combine shoes and socks!</p>
 
-**Adapt**
+Adapt
 <p>Can this item be used to solve another problem, or similarly can another solution elsewhere be moulded to solve the problem you are facing?</p>
 
-**Modify**
+Modify
 <p>This entails changing the product in a small way, perhaps size, shape or colour to target a specific portion of your market or to resolve a particular customer pain point. An example is changing the shape of a pillow to better suit side-sleepers.</p>
 
-**Put to another use**
+Put to another use
 <p>In this case, the item mainly refers to physical products. Can the item be made from materials or products that were discarded or unused? Or can the item that you are working on be used elsewhere. Common examples are products being made from recycled materials.</p>
 
-**Eliminate**
+Eliminate
 <p>This entails the removal of a part of the item. For example, it can be eliminating steps in a service to provide the user with a better experience, such as removing the need for sign-up or log-in.</p>
 
-**Reverse**
+Reverse
 <p>In this technique, ideation focuses on rearranging or reversing the order or importance of steps or parts. It can result in a completely novel way of providing a service.</p>
-
+ </details>
 <hr>
-###### References
-###### Better Brainstorming (hbr.org)
-###### Brainstorming in Design Thinking - A Complete Guide (theknowledgeacademy.com)
-###### 
-###### From Brainstorming to Bodystorming - DesignWanted : DesignWanted
-###### think.design/user-design-research/bodystorming/
-###### What Is Bodystorming? Bodystorming In A Nutshell - FourWeekMBA
-###### 
-###### 
-###### Using the 7-Step SCAMPER Technique for Great UX Design (careerfoundry.com)
-###### SCAMPER - The Decision Lab
-###### ',
+### References
+
+Carter, T. Ideation: How to Excel at the Most Important Stage of Deign Thinking
+[https://www.process.st/ideation/](https://www.process.st/ideation/)
+
+Cheung, J. (Career Foundry) How to Use the SCAMPER Technique in UX Design 
+[https://careerfoundry.com/en/blog/ux-design/scamper-technique/](https://careerfoundry.com/en/blog/ux-design/scamper-technique/)
+
+Cuofano, G. Bodystorming in a Nutshell<br>
+[https://fourweekmba.com/bodystorming/](https://fourweekmba.com/bodystorming/)
+
+Hart, J. Brainstorming in Design Thinking – Explained
+[https://www.theknowledgeacademy.com/blog/brainstorming-in-design-thinking/](https://www.theknowledgeacademy.com/blog/brainstorming-in-design-thinking/)
+
+Harvard Business Review Better Brainstorming 
+[https://hbr.org/2018/03/better-brainstorming](https://hbr.org/2018/03/better-brainstorming)
+
+
+Lee, S. From Brainstorming to Bodystorming: an applied ethnographic perspective to view co-creation workshops
+[https://designwanted.com/brainstorming-bodystorming/](https://designwanted.com/brainstorming-bodystorming/)
+
+Miro What is Brainstorming
+[https://miro.com/brainstorming/what-is-brainstorming/](https://miro.com/brainstorming/what-is-brainstorming/)
+
+The Decision Lab SCAMPER
+[https://thedecisionlab.com/reference-guide/philosophy/scamper](https://thedecisionlab.com/reference-guide/philosophy/scamper)
+
+
+
+
+
+
+
+
+
+
+ ',
         'slug' => 'ideate',
         'name' => 'default.md',
         'ordering' => true

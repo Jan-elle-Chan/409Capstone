@@ -55,6 +55,7 @@ body{
 
 summary{
     background-color: lightgrey;
+    padding-left: 10px;
 }
 details{
     background-color: lightgray;

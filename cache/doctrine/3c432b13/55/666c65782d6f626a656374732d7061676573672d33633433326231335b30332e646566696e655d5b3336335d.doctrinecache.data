@@ -1,0 +1,149 @@
+1712026960
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"define";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:9:"03.define";s:6:"header";a:1:{s:5:"title";s:6:"Define";}s:11:"frontmatter";s:13:"title: Define";s:8:"markdown";s:6323:"## Stage 2 - Define
+
+During the define stage you will use the information gathered from the Empathize stage to help define the user problem. 
+The problem statement you develop will be used to drive the Ideation stage.
+
+
+By now you will have a clear understanding of who the user is, what they want to accomplish, and what their pain points are.
+
+> **_NOTE:_** _A pain point is any obstruction, issue or challenge faced by the user in their attempt to accomplish their goal. Pain points present you with opportunities, in that they can be addressed in your solution, increasing its value to the user._
+
+### Problem Definition Techniques or Tools 
+* User personas
+* Users Stories
+* How Might We Statements
+* Point of View Statement
+
+#### User personas
+A user persona is a representation of your target audience that you have made up based on data collected. 
+It must consider:
+1. Who are they? – general background about user
+2. What are their goals – what they want to accomplish, what information do they want to find, service or product
+3. What are their pain points – challenges with accomplishing their goal
+
+<details><summary>What can a user persona include?</summary>
+<ul>
+<li>Name</li>
+<li>Picture</li>
+<li>Quote</li>
+<li>Short biography</li>
+<li>Background</li>
+<li>Needs</li>
+<li>Goals or objectives</li>
+<li>Pain points or challenges</li>
+<li>Behaviours</li>
+<li>Skills – communication, technological, or related to product</li>
+<li>Products used</li>
+<li>Demographics</li>
+    </ul>
+</details>
+<br>
+##### User Personas Examples
+Persona for the Comox Valley Search and Rescue. Users visit the website to:
+* Learn about outdoor and adventure safety
+* Learn about becoming a member of CVSR
+ ![User Persona CVSR](userPersonaCVSR.png)*User Persona CVSR*
+<br>
+<br>
+Persona for Reduce. Users are:
+* Younger, technologically oriented people who are environmentally conscious
+* Want to find ways to track and reduce their carbon dioxide output.
+![User Persona Reduce](userPersonaReduce.png)*User Persona Reduce*
+
+
+<hr>
+
+#### User Stories
+User stories are statements written from someone’s point of view. Most of the time the ‘someone’ is a user but it can also be another stakeholder. They summarise what the user wants to achieve. 
+
+![User StoryTemplate](userstoryTemplate.png)*User Story Template*
+##### User Story Example
+
+Toy library: As a parent I want to access exchangeable toys so that I can provide novel experiences for my toddler to fit by budget
+
+<details><summary>More about user stories and more examples</summary>
+Search and Rescue: As an outdoor adventure guide I want to learn about search and rescue guidelines and area-specific news to have safe group outings.
+
+Reduce App: As a global citizen I want to be able to keep track of how much carbon dioxide I am producing so I be reassured that the steps I have been taking to help the environment have been working.
+
+User stories are
+<ul>
+<li>informal </li>
+<li>goal-oriented</li>
+<li>written in natural language</li>
+</ul>
+User stories Do Not
+<ul>
+ 	<li>Describe a software feature </li>
+    <li>Explain how the goal will be achieved</li>
+ </ul>
+</details>
+<hr>
+
+#### Point of View Statements
+Point of View statements describe the user’s needs. 
+They are similar to user stories
+They describe a challenge as a problem statement
+Are actionable statements 
+Have a narrow focus
+
+![Point of View Statement Template](povTemplate.png)*Point of View Statement Template*
+
+Point of View Statement Examples
+
+A department supervisor needs a way to have meetings with department members who work across various shifts because having everyone’s input into how the department runs can improve its efficiency.
+
+<hr>
+#### How Might We Questions
+A single POV statement may generate several How Might We questions. 
+![howmightweGraphic](howmightweGraphic.png)*How Might We Question Template*
+<br><br>
+How Might We Questions 
+* Are short questions that focus on some aspect of the POV
+* Intended to spark idea generation in the Ideate stage
+* Break down the POV – the user, needs, reason
+* Try formulating a question around each
+* Try out different verbs with each to get different questions
+* Don’t be scared to take the HMWs back to Empathize and use them as interview questions (iteration!)
+
+
+Here are some example using the POV from the previous section. Notice they do not all focus on getting a meeting organised but focus on the goals as well: getting everyone’s input and making the department more efficient.
+How might we improve department efficiency?
+How might we get department members’ input on running the department?
+How might we arrange department meetings to include all members?
+
+The first HMW above could have used a different verb that led to a different question entirely and a different stream of ideas
+* How might we measure department efficiency?
+* How can we sustain department efficiency?
+<br><hr>
+
+### References
+
+Filipova, S. How Might We Method: How to Make a Cool Product
+[https://fulcrum.rocks/blog/how-might-we-method](https://fulcrum.rocks/blog/how-might-we-method)
+
+Interaction Design Foundation User Stories
+[https://www.interaction-design.org/literature/topics/user-stories](https://www.interaction-design.org/literature/topics/user-stories)
+
+Interaction Design Foundation What is How Might We (HMW)?
+[https://www.interaction-design.org/literature/topics/how-might-we](https://www.interaction-design.org/literature/topics/how-might-we)
+
+Intuit Mailchimp
+[https://mailchimp.com/resources/how-to-create-a-user-persona-ux/](https://mailchimp.com/resources/how-to-create-a-user-persona-ux/)
+
+Otakoyi Software Zhmikhov, Y. Point of view (POV) - Problem statement & How might we (HMW) questions
+[https://otakoyi.software/blog/point-of-view-pov-problem-statement-how-might-we-hmw-questions](https://otakoyi.software/blog/point-of-view-pov-problem-statement-how-might-we-hmw-questions)
+
+Perficient Design Thinking: How to Create Your POV (Part 4)
+[https://blogs.perficient.com/2019/02/08/design-thinking-how-to-create-your-pov-part-4/](https://blogs.perficient.com/2019/02/08/design-thinking-how-to-create-your-pov-part-4/)
+
+Rehkopf, M. User stories with examples and a template 
+[https://www.atlassian.com/agile/project-management/user-stories](https://www.atlassian.com/agile/project-management/user-stories)
+
+
+
+
+
+ 
+";s:4:"slug";s:6:"define";s:4:"name";s:10:"default.md";s:8:"ordering";b:1;}s:7:"storage";a:6:{s:3:"key";s:6:"define";s:11:"storage_key";s:9:"03.define";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1712016062;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1712016062;}}s:8:"checksum";s:32:"7a9e7219a8c869f95e443a6d88b9a7e9";}}
