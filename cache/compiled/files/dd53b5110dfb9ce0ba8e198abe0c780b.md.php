@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/05.prototype/default.md',
-    'modified' => 1711043073,
-    'size' => 1866,
+    'modified' => 1712037066,
+    'size' => 2949,
     'data' => [
         'storage_key' => '05.prototype',
         'header' => [
@@ -27,16 +27,31 @@ Low-fidelity wireframes capture the basic concept of the product, that is, the f
 * Draw on a whiteboard for team visualization and feedback
 * Use sheets of paper, each sheet for a different screen
 * Create simple digital drawings, which is really fast if you have pre-made components from previous wireframes.
-![Digital Low Fidelity wireframe for Wave DS](digitalLowfi.png)*Low-fidelity wireframe for Wave DS, desktop and mobile*
+![Digital Low Fidelity wireframe for Wave DS](digitalLowfi.png)<br>*Low-fidelity wireframe for Wave DS, desktop and mobile*
 <hr>
 
 ### High-Fidelity Prototypes
 * High-fidelity prototypes look like the actual digital product. 
 * They are created with tools such Adobe XD and Figma
 * They focus on specific aspects of design such as buttons and fonts which are not important in low-fidelity wireframes. 
-* They may be grayscale or colour.
-![High-fidelity wirerame Reduce app](highfi.png)*High-fidelity wirerame Reduce app*
+* They may be grayscale or colour.<br><br>
+![High-fidelity wirerame Reduce app](highfi.png)<br>*High-fidelity wirerame Reduce app*
 
+
+### References
+
+Dam, R. The 5 Stages in the Design Thinking Process<br>
+[https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process)
+
+Stevens, E. A Complete Introduction to Prototyping<br>
+[https://careerfoundry.com/en/blog/ux-design/design-thinking-stage-four-prototyping/](https://careerfoundry.com/en/blog/ux-design/design-thinking-stage-four-prototyping/)
+
+Quick, L.  Prototyping in Design Thinking: Complete Guide with Examples<br>
+[https://www.knowledgehut.com/blog/agile/prototyping-in-design-thinking#types-of-prototyping%C2%A0](https://www.knowledgehut.com/blog/agile/prototyping-in-design-thinking#types-of-prototyping%C2%A0)
+
+
+The Design Thinking Association Prototyping in Design Thinking<br>
+[https://design-thinking-association.org/explore-design-thinking-topics/external-links/prototyping-design-thinking](https://design-thinking-association.org/explore-design-thinking-topics/external-links/prototyping-design-thinking)
 
 ',
         'slug' => 'prototype',

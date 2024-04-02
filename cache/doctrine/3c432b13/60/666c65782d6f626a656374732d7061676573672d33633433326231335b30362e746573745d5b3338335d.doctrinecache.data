@@ -1,0 +1,61 @@
+1712039761
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"test";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:7:"06.test";s:6:"header";a:1:{s:5:"title";s:4:"Test";}s:11:"frontmatter";s:0:"";s:8:"markdown";s:2433:"## Stage 5 - Test
+The first thing you should do in this stage is to create a test plan, it doesn’t have to be fancy. <p>The 'what' that is being tested is some kind of prototype or maybe just items that you want sorted by a user.</p>
+* Who are the users
+* What is being tested
+* When
+* What is needed
+
+
+<details><summary>Testing Tips</summary>
+<ul>
+	<li>Be an open-minded, unbiased observer</li>
+	<li>Don’t ask guided questions and don’t tell the user what to do</li>
+	<li>Don’t be afraid of negative feedback, it is better to know what is wrong and fix it rather than implement a poor idea and waste time and money</li>
+	<li>Results of testing can send you back to Empathize or any other stage, that’s okay</li>
+</ul>
+</details>
+### Testing Techniques
+* Card Sorting
+* A/B Testing
+* Usability Testing
+
+<hr>
+Card Sorting
+<br>
+<hr>
+A/B Testing
+A/B testing is a simple testing technique used to test multiple versions of a product or service. 
+The current version may be compared to a modified version
+Two new versions may be compared to each other
+It is usually used to determine the user’s preference with regard to one feature 
+<br>
+<hr>
+Usability Testing
+Also referred to as usability task testing is a type of task-based testing. The test is centred around the user’s ability to complete a given task. Some examples of tasks are:
+Complete sign-up and log-in for a website
+Use the toast-bagel feature on a toaster
+Leave feedback using a contact form
+
+Preparing for Usability testing
+Identify tasks you would like to test and create expected user flows for them.
+Select users, a test venue and time
+Get your prototypes or product ready
+Assign a scribe, facilitator and if necessary, a ‘computer’ 
+
+<details><summary>How to conduct a usability test</summary>
+ <ul>
+	<li>The facilitator provides the user with general background information about the product</li>
+	<li>The facilitator answers any questions user may have</li>
+	<li>The facilitator provides the user with a task to complete, verbally or written down</li>
+	<li>The user says what has to be done, if there is a person acting as a computer they may perform the actions and swap out screens etc</li>
+	<li>The scribe takes note of all the user’s actions, what they clicked on, where they hesitated</li>
+	<li>The facilitator may ask for general feedback at the end or briefly during the completion of the task</li>
+</ul>
+</details>
+
+<hr>
+
+
+### References
+";s:4:"slug";s:4:"test";s:4:"name";s:10:"default.md";s:8:"ordering";b:1;}s:7:"storage";a:6:{s:3:"key";s:4:"test";s:11:"storage_key";s:7:"06.test";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1712039160;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1712039160;}}s:8:"checksum";s:32:"d703d7d7cebec1c5c676bd8df572aff9";}}

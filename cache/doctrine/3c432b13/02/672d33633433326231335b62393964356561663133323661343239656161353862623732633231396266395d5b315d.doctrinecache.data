@@ -1,0 +1,32 @@
+1712641690
+a:2:{s:7:"content";s:3192:"<h2>Stage 4 - Prototype</h2>
+<p>Using one or two ideas from the Ideate stage, you will build a model of that idea or solution. You are not building the actual product or solution only a model so it must be something that can be made easily in a short time and that you are willing to discard.</p>
+<p>During the prototyping stage, you may realise the importance of bits of information that you overlooked in the Empathize stage or even come up with brand new ideas. It is okay to go backwards (iterate through several stages) then make changes to your prototype. </p>
+<p>It is also okay to complete the prototype, discard and re-build or make improvements several times (iteration within a stage).</p>
+<p>Depending on what you are designing prototypes can be made of cheap materials such as foam, cardboard, or paper. We will focus on digital products and the types of prototypes that are made for those.</p>
+<h3>Low-fidelity wireframes</h3>
+<p>Low-fidelity wireframes capture the basic concept of the product, that is, the features available and the general user flow through the system. They can be created in a number of ways.</p>
+<ul>
+<li>Draw on a whiteboard for team visualization and feedback</li>
+<li>Use sheets of paper, each sheet for a different screen</li>
+<li>Create simple digital drawings, which is really fast if you have pre-made components from previous wireframes.
+<img alt="Digital Low Fidelity wireframe for Wave DS" src="/dtSimplified/user/pages/05.prototype/digitalLowfi.png" /><em>Low-fidelity wireframe for Wave DS, desktop and mobile</em>
+<hr></li>
+</ul>
+<h3>High-Fidelity Prototypes</h3>
+<ul>
+<li>High-fidelity prototypes look like the actual digital product. </li>
+<li>They are created with tools such Adobe XD and Figma</li>
+<li>They focus on specific aspects of design such as buttons and fonts which are not important in low-fidelity wireframes. </li>
+<li>They may be grayscale or colour.
+<img alt="High-fidelity wirerame Reduce app" src="/dtSimplified/user/pages/05.prototype/highfi.png" /><em>High-fidelity wirerame Reduce app</em></li>
+</ul>
+<h3>References</h3>
+<p>Dam, R. The 5 Stages in the Design Thinking Process
+<a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process</a></p>
+<p>Stevens, E. A Complete Introduction to Prototyping
+<a href="https://careerfoundry.com/en/blog/ux-design/design-thinking-stage-four-prototyping/">https://careerfoundry.com/en/blog/ux-design/design-thinking-stage-four-prototyping/</a></p>
+<p>Quick, L.  Prototyping in Design Thinking: Complete Guide with Examples
+<a href="https://www.knowledgehut.com/blog/agile/prototyping-in-design-thinking#types-of-prototyping ">https://www.knowledgehut.com/blog/agile/prototyping-in-design-thinking#types-of-prototyping%C2%A0</a></p>
+<p>The Design Thinking Association Prototyping in Design Thinking
+<a href="https://design-thinking-association.org/explore-design-thinking-topics/external-links/prototyping-design-thinking">https://design-thinking-association.org/explore-design-thinking-topics/external-links/prototyping-design-thinking</a></p>";s:12:"content_meta";N;}

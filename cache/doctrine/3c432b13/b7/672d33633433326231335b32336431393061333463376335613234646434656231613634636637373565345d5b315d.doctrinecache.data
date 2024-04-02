@@ -1,0 +1,32 @@
+1712642796
+a:2:{s:7:"content";s:1015:"<h2>Stage 5 - Test</h2>
+<p>The first thing you should do in this stage is to create a test plan, it doesn’t have to be fancy: </p>
+<ul>
+<li>Who are the users</li>
+<li>What is being tested</li>
+<li>When</li>
+<li>What is needed
+<p>The 'what' that is being tested is some kind of prototype or maybe just items that you want sorted by a user.</p></li>
+</ul>
+<details><summary>Testing Tips</summary>
+<ul>
+    <li>Be an open-minded, unbiased observer</li>
+    <li>Don’t ask guided questions and don’t tell the user what to do</li>
+    <li>Don’t be afraid of negative feedback, it is better to know what is wrong and fix it rather than implement a poor idea and waste time and money</li>
+    <li>Results of testing can send you back to Empathize or any other stage, that’s okay</li>
+</ul>
+</details>
+<h3>Testing Techniques</h3>
+<ul>
+<li>Card Sorting</li>
+<li>A/B Testing</li>
+<li>Usability Testing</li>
+</ul>
+<hr>
+<p>Card Sorting</p>
+<hr>
+<p>A/B Testing</p>
+<hr>
+<p>Usability Testing</p>
+<hr>
+<h3>References</h3>";s:12:"content_meta";N;}
