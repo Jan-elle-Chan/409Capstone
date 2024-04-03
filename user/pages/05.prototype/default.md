@@ -28,7 +28,7 @@ Low-fidelity wireframes capture the basic concept of the product, that is, the f
 * They may be grayscale or colour.<br><br>
 ![High-fidelity wirerame Reduce app](highfi.png)<br>*High-fidelity wirerame Reduce app*
 
-
+<hr>
 ### References
 
 Dam, R. The 5 Stages in the Design Thinking Process<br>

@@ -53,12 +53,9 @@ body{
     text-decoration: none;
 }
 
-summary{
-    background-color: lightgrey;
-    padding-left: 10px;
-}
 details{
     background-color: lightgray;
+    padding-left: 10px;
 }
 
 .mobile-log0{

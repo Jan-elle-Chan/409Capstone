@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/05.prototype/default.md',
-    'modified' => 1712037066,
-    'size' => 2949,
+    'modified' => 1712118847,
+    'size' => 2953,
     'data' => [
         'storage_key' => '05.prototype',
         'header' => [
@@ -37,7 +37,7 @@ Low-fidelity wireframes capture the basic concept of the product, that is, the f
 * They may be grayscale or colour.<br><br>
 ![High-fidelity wirerame Reduce app](highfi.png)<br>*High-fidelity wirerame Reduce app*
 
-
+<hr>
 ### References
 
 Dam, R. The 5 Stages in the Design Thinking Process<br>
