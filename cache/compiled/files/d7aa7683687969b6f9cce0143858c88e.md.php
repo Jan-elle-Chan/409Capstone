@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/06.test/default.md',
-    'modified' => 1712119474,
-    'size' => 3723,
+    'modified' => 1712122453,
+    'size' => 4305,
     'data' => [
         'storage_key' => '06.test',
         'header' => [
@@ -34,6 +34,14 @@ The first thing you should do in this stage is to create a test plan, it doesnâ€
 
 <hr>
 #### Card Sorting
+<p>Card sorting is a testing technique which can be used early on, even before protypes are made. The goal is to determine what items users expect to see within categories. The items are written on cards.</p>
+**Open Card Sorting**
+<p>The users are given items and can come up with their own categories. They then place items under each category.</p>
+
+**Closed Card Sorting**
+<p>The users are provided with categories and items and place the items under what they perceive to be the beat categories.</p>
+
+
 <br>
 <hr>
 #### A/B Testing
@@ -68,7 +76,8 @@ Also referred to as usability task testing is a type of task-based testing. The 
 	<li>The facilitator may ask for general feedback at the end or briefly during the completion of the task</li>
 </ul>
 </details>
-
+<br><br>
+![User Flow Chart](userflowUsability.png)<br>*User Flow Example*<br>
 <hr>
 
 

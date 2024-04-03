@@ -1,0 +1,82 @@
+1712727205
+a:2:{s:7:"content";s:4768:"<h2>Stage 5 - Test</h2>
+<p>The first thing you should do in this stage is to create a test plan, it doesn’t have to be fancy. <p>The 'what' that is being tested is some kind of prototype or maybe just items that you want sorted by a user. The test plan should include:</p></p>
+<ul>
+<li>Who the users or testers will be</li>
+<li>What is being tested</li>
+<li>When</li>
+<li>What is needed</li>
+</ul>
+<details><summary>Testing Tips</summary>
+<ul>
+    <li>Be an open-minded, unbiased observer</li>
+    <li>Don’t ask guided questions and don’t tell the user what to do</li>
+    <li>Don’t be afraid of negative feedback, it is better to know what is wrong and fix it rather than implement a poor idea and waste time and money</li>
+    <li>Results of testing can send you back to Empathize or any other stage, that’s okay</li>
+</ul>
+</details>
+<h3>Testing Techniques</h3>
+<ul>
+<li>Card Sorting</li>
+<li>A/B Testing</li>
+<li>Usability Testing</li>
+</ul>
+<hr>
+<h4>Card Sorting</h4>
+<p>Card sorting is a testing technique which can be used early on, even before protypes are made. The goal is to determine what items users expect to see within categories. The items are written on cards.</p>
+<p><strong>Open Card Sorting</strong></p>
+<p>The users are given items and can come up with their own categories. They then place items under each category.</p>
+<p><strong>Closed Card Sorting</strong></p>
+<p>The users are provided with categories and items and place the items under what they perceive to be the beat categories.</p>
+<p><br></p>
+<hr>
+<h4>A/B Testing</h4>
+<p>A/B testing is a simple testing technique used to test multiple versions of a product or service.
+<img alt="Two logo versions for this site" src="/dtSimplified/user/pages/06.test/ab.png" /><em>Two logo versions for this site</em></p>
+<ul>
+    <li>The current version may be compared to a modified version</li>
+    <li>Two new versions may be compared to each other</li>
+    <li>It is usually used to determine the user’s preference with regard to one feature</li>
+</ul>
+<p><br></p>
+<hr>
+<h4>Usability Testing</h4>
+<p>Also referred to as usability task testing is a type of task-based testing. The test is centred around the user’s ability to complete a given task. Some examples of tasks are:</p>
+<ul>
+<li>Complete sign-up and log-in for a website</li>
+<li>Use the toast-bagel feature on a toaster</li>
+<li>Leave feedback using a contact form</li>
+</ul>
+<h5>Preparing for Usability testing</h5>
+<ul>
+<li>Identify tasks you would like to test and create expected user flows for them.</li>
+<li>Select users, a test venue and time</li>
+<li>Get your prototypes or product ready</li>
+<li>Assign a scribe, facilitator and if necessary, a ‘computer’ </li>
+</ul>
+<details><summary>How to conduct a usability test</summary>
+ <ul>
+    <li>The facilitator provides the user with general background information about the product</li>
+    <li>The facilitator answers any questions user may have</li>
+    <li>The facilitator provides the user with a task to complete, verbally or written down</li>
+    <li>The user says what has to be done, if there is a person acting as a computer they may perform the actions and swap out screens etc</li>
+    <li>The scribe takes note of all the user’s actions, what they clicked on, where they hesitated</li>
+    <li>The facilitator may ask for general feedback at the end or briefly during the completion of the task</li>
+</ul>
+</details>
+<p><br><br>
+<img alt="User Flow Chart" src="/dtSimplified/user/pages/06.test/userflowUsability.png" /><br><em>User Flow Example</em><br></p>
+<hr>
+<h3>References</h3>
+<p>AJ &amp; Smart Design Thinking Phase 5: How to Test Effectively
+<a href="https://www.workshopper.com/post/design-thinking-phase-5-how-to-test-effectively">https://www.workshopper.com/post/design-thinking-phase-5-how-to-test-effectively</a></p>
+<p>ExperienceUX What is usability testing?<br>
+<a href="https://www.experienceux.co.uk/faqs/what-is-usability-testing/">https://www.experienceux.co.uk/faqs/what-is-usability-testing/</a></p>
+<p>Hotjar 7 Product Design Testing Methods and Strategies<br>
+<a href="https://www.hotjar.com/product-design/testing-methods/">https://www.hotjar.com/product-design/testing-methods/</a></p>
+<p>Kitch, B. Testing: A Guide to the 5th Stage of Design Thinking<br>
+<a href="https://www.mural.co/blog/design-thinking-testing">https://www.mural.co/blog/design-thinking-testing</a></p>
+<p>Maze 5 Real Usability Testing Examples &amp; Methods to Take Away <br>
+<a href="https://maze.co/guides/usability-testing/examples/">https://maze.co/guides/usability-testing/examples/</a></p>
+<p>Maze Card Sorting: How to Run a Card Sort + Examples <br>
+<a href="https://maze.co/guides/card-sorting/">https://maze.co/guides/card-sorting/</a></p>";s:12:"content_meta";N;}
