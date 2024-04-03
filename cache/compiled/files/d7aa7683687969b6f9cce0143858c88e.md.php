@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/06.test/default.md',
-    'modified' => 1712040664,
-    'size' => 3678,
+    'modified' => 1712119474,
+    'size' => 3723,
     'data' => [
         'storage_key' => '06.test',
         'header' => [
@@ -12,8 +12,8 @@ return [
         'root' => false,
         'frontmatter' => '',
         'markdown' => '## Stage 5 - Test
-The first thing you should do in this stage is to create a test plan, it doesn’t have to be fancy. <p>The \'what\' that is being tested is some kind of prototype or maybe just items that you want sorted by a user.</p>
-* Who are the users
+The first thing you should do in this stage is to create a test plan, it doesn’t have to be fancy. <p>The \'what\' that is being tested is some kind of prototype or maybe just items that you want sorted by a user. The test plan should include:</p>
+* Who the users or testers will be
 * What is being tested
 * When
 * What is needed

@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/dtSimplified/user/pages/05.prototype/default.md',
-    'modified' => 1712118847,
-    'size' => 2953,
+    'modified' => 1712119169,
+    'size' => 2993,
     'data' => [
         'storage_key' => '05.prototype',
         'header' => [
@@ -24,9 +24,11 @@ Depending on what you are designing prototypes can be made of cheap materials su
 ### Low-fidelity wireframes
 
 Low-fidelity wireframes capture the basic concept of the product, that is, the features available and the general user flow through the system. They can be created in a number of ways.
-* Draw on a whiteboard for team visualization and feedback
-* Use sheets of paper, each sheet for a different screen
-* Create simple digital drawings, which is really fast if you have pre-made components from previous wireframes.
+<ul>
+    <li>Draw on a whiteboard for team visualization and feedback</li>
+    <li>Use sheets of paper, each sheet for a different screen</li>
+	<li>Create simple digital drawings, which is really fast if you have pre-made components from previous wireframes</li>
+</ul>
 ![Digital Low Fidelity wireframe for Wave DS](digitalLowfi.png)<br>*Low-fidelity wireframe for Wave DS, desktop and mobile*
 <hr>
 
